@@ -17,5 +17,5 @@ class ChinabyteSpider(scrapy.Spider):
             'short_title': doc.short_title(),
             'summary': doc.summary(html_partial=True),
         }
-        for next_page in response.css('a'):
+        for next_page in response.css('a::attr("href")'):
             yield response.follow(next_page, self.parse)
