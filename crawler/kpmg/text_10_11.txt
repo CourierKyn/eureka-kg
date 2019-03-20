@@ -1,0 +1,215 @@
+10
+Leading 50
+page
+#01 Ant Financial
+12
+#02 JD Finance
+13
+#03 Grab
+14
+#04 Du Xiaoman Financial
+15
+#05 SoFi
+16
+#06 Oscar Health
+17
+#07 Nubank
+18
+#08 Robinhood
+19
+#09 Atom Bank
+20
+#10 Lufax Holding
+21
+#11 OneConnnect Financial 
+Technology
+22
+#12 51 Credit Card
+23
+#13 Revolut
+24
+#14 Compass
+25
+#15 Stripe
+26
+#16 Clover Health
+27
+#17 Adyen
+28
+#18 Policybazaar
+29
+#19 Klarna
+30
+#20 ACORN Oaknorth  
+Holdings
+31
+#21 Kreditech Holding
+32
+#22 Monzo
+33
+#23 WeLab
+34
+#24 Number26 (N26)
+35
+#25 WealthSimple
+36
+#26 AfterPay Touch
+37
+#27 Dianrong
+38
+#28 VivaRepublica (Toss)
+39
+#29 QUOINE
+40
+#30 Kabbage
+41
+#31 Affirm
+42
+#32 OurCrowd
+43
+#33 SolarisBank
+44
+#34 Future Finance
+45
+#35 Neyber
+46
+#36 ZhongAn
+47
+#37 TransferWise
+48
+#38 Pushpay
+49
+#39 League Inc.
+50
+#40 Circle
+51
+#41 Lendingkart
+52
+#42 Opendoor
+53
+#43 Metromile
+54
+#44 Folio
+55
+#45 Lendix
+56
+#46 GuiaBolso
+57
+#47 Starling Bank
+58
+#48 Coinbase
+59
+#49 Airwallex
+60
+#50 Lemonade
+61
+The 100
+11
+Emerging 50
+page
+ Agri Digital
+62
+ Anyfin
+63
+ Aqeed Technology
+64
+ Bankera
+ Blackmoon Financial 
+Group
+65
+66
+ BlockFi Lending 
+67
+ Brex
+68
+ Cashaa
+69
+ Cellulant
+70
+ Cleo
+71
+ Coya
+72
+ Crypterium
+73
+ DAYLI Financial Group
+74
+ Dreams
+75
+ Funding Societies
+76
+ Geru
+77
+ InstaReM
+78
+ Konfio
+79
+ Kredivo
+80
+ Kyber Network
+81
+ Liwwa
+82
+ Look Who’s Charging
+83
+ MoMo
+84
+ Nod
+85
+ Omise
+86
+ Payr
+87
+ PaySense
+88
+ PayTabs
+89
+ Pleo
+90
+ Plussimple (+Simple)
+91
+ Polymath
+92
+ Power Ledger
+93
+ Pundi X 
+94
+ Quantexa
+95
+ Recordsure
+96
+ Ripio Credit Network
+97
+ Shift Technology
+98
+ Singlife
+99
+ Tala
+100
+ Tally Technologies
+101
+ TenX
+102
+ ThisIsMe
+103
+ Tide
+104
+ Tiger Brokers
+105
+ Tpaga
+106
+ Trade Ledger
+107
+ Varo Money
+108
+ Wallet.ng
+109
+ Wave Money
+110
+ WeBank
+111
+presented in alphabetical order
+Symbols Explained
+👤   How many staff work at the company 
+ Companies to watch in the coming years 
+The 100
