@@ -5,3 +5,7 @@
 
 ##顺便推荐一下git的简写命令
 先切换到dev分支
+可以看到/myProject/sign目录下出现一个.gitconfig文件
+这只是一个参考的文件，可以用vs code之类的软件打开查看
+接着打开C:\Users\{username}\.gitconfig，然后把[alias]标签里面的东西复制过去（也可以自行再添加一些缩写指令）
+ctrl+S保存，然后试着在git bash中输入git lg
