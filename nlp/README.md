@@ -6,3 +6,4 @@ https://blog.csdn.net/kevin_darkelf/article/details/39520881 #中文分词词性
 python fact_triple_extraction-master.py input.txt out_file_name.txt 
 dict.txt为字典格式
 最终的代码输出还未决定，当前版本的输出只是为了方便学习
+需要修改.py文件33行的MODELDIR路径为你自己模型保存的路径，jupyter文件一样处理
