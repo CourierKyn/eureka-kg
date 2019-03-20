@@ -33,7 +33,9 @@ print("正在加载LTP模型... ...")
 MODELDIR="E:\pyltp_model\ltp_data_v3.4.0"
 
 segmentor = Segmentor()
-segmentor.load(os.path.join(MODELDIR, "cws.model"))
+cws_model_path=os.path.join(MODELDIR, "cws.model")
+segmentor.load_with_lexicon(cws_model_path, './dict.txt') #请把字典文件放进当前文件夹
+#segmentor.load(os.path.join(MODELDIR, "cws.model"))
 
 postagger = Postagger()
 postagger.load(os.path.join(MODELDIR, "pos.model"))
@@ -87,8 +89,8 @@ def extraction_start(in_file_name, out_file_name, begin_line, end_line):
         begin_line: 读文件的起始行
         end_line: 读文件的结束行
     """
-    in_file = open(in_file_name, 'r')
-    out_file = open(out_file_name, 'a')
+    in_file = open(in_file_name, 'r', encoding='utf-8')
+    out_file = open(out_file_name, 'a', encoding='utf-8')
     
     line_index = 1
     sentence_number = 0
