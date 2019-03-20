@@ -1,6 +1,7 @@
 ##在此处加入新的规则
 
 data/
+.idea/
 
 ##Python
 
