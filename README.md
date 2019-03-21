@@ -34,6 +34,9 @@
     ├── database
     │   ├── README.md
     │   └── ...
+    ├── frontend
+    │   ├── README.md
+    │   └── ...
     ├── nlp
     │   ├── README.md
     │   └── ...
