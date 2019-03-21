@@ -23,17 +23,18 @@
 
 ## 文件（夹）命名
 
-```
-.
-├── README.md
-├── crawler
-│   ├── README.md
-│   └── ...
-├── nlp
-│   ├── README.md
-│   └── ...
-└── ...
-```
+    .
+    ├── README.md
+    ├── crawler
+    │   ├── README.md
+    │   └── ...
+    ├── database
+    │   ├── README.md
+    │   └── ...
+    ├── nlp
+    │   ├── README.md
+    │   └── ...
+    └── ...
 
 文件夹采用全小写字母，python 源代码文件采用全小写下划线连接格式，如 universal_spider.py，每个文件夹可配说明文档，应为纯文本（包括 markdown），命名为 README.md。
 
@@ -46,5 +47,6 @@
 一律采用 UTF-8，记事本容易产生编码问题，应改用 vscode 等。
 
 > 在管理员 cmd 中输入以下代码快速安装 vscode：
+
     @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin" && choco feature enable -n allowGlobalConfirmation
     choco install vscode
