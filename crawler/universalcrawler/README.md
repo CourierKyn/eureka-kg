@@ -2,4 +2,6 @@
 
     scrapy crawl name -o data/name.jsonlines -s JOBDIR=crawls/name
 
-name 即你收到的表格中的 name。
+其中 name 即爬虫任务分发中的 name。
+
+注意在断网前在终端按 control c，等待大约十秒，即可暂停爬虫。第二天输入相同命令继续。
