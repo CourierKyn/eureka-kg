@@ -21,10 +21,13 @@
 > 不要把此目录作为提交的途径，而要作为你电脑中所有与此项目相关的文件（包括 jupyter notebook 等，不包括二进制可执行文件）的存放处，你可以编辑 .gitignore 来制定规则，使某些文件不被 git 跟踪。
 > 每个文件夹是一个项目（或子项目），这个项目所需要的 PyPI 包应写在 requirements.txt 中，每行一个。
 
-## 文件（夹）命名
+## 项目结构
 
     .
-    ├── README.md
+    ├── README.md # 本文档
+    ├── android
+    │   ├── README.md
+    │   └── ...
     ├── crawler
     │   ├── README.md
     │   └── ...
@@ -33,6 +36,9 @@
     │   └── ...
     ├── nlp
     │   ├── README.md
+    │   └── ...
+    ├── sign
+    │   ├── README.md # 必读
     │   └── ...
     └── ...
 
