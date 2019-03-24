@@ -59,9 +59,9 @@ def load_file(input_file_name):
 # In[5]:
 
 
-def read_csv(input_file_name):
+def read_table(input_file_name):
     input_file_name=input_file_name+'.txt'
-    data=pd.read_csv(input_file_name,header=None)
+    data=pd.read_table(input_file_name,header=None)
     data.columns=['object','relation','subject']
     return data
 
@@ -96,7 +96,7 @@ def lda_clust(corpus,data,n):
 
 
 def to_csv(output_file_name,data):
-    data.to_csv(output_file_name)
+    data.to_csv(output_file_name,sep='\t')
 
 
 # In[14]:
@@ -104,10 +104,10 @@ def to_csv(output_file_name,data):
 
 def main(input_file_name,n):
     corpus=load_file(input_file_name)
-    data=read_csv(input_file_name)
+    data=read_table(input_file_name)
     data=lda_clust(corpus,data,n)
     output_file_name=input_file_name+'_clust.txt'
-    to_csv(output_file_name,data)
+    to_table(output_file_name,data)
 
 
 # In[ ]:
