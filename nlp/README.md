@@ -7,3 +7,4 @@ python fact_triple_extraction-master.py input.txt out_file_name.txt
 dict.txt为字典格式
 最终的代码输出还未决定，当前版本的输出只是为了方便学习
 需要修改.py文件33行的MODELDIR路径为你自己模型保存的路径，jupyter文件一样处理
+data_analysis.py文件的功能为解析爬取得json格式文件，在命令行输入python data_analysis.py in_file_name.jsonlines
