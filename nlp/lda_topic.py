@@ -75,6 +75,7 @@ def lda_clust(corpus,data,n):
 
     X = vectorizer.fit_transform(corpus)
     analyze = vectorizer.build_analyzer()
+    X=X.astype(np.int8)
     weight = X.toarray()
  
     print(len(weight))
