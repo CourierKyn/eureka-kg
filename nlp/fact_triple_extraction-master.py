@@ -151,7 +151,7 @@ def fact_triple_extract(sentence, out_file):
                 e1 = complete_e(words, postags, child_dict_list, child_dict['SBV'][0])
                 r = words[index]
                 e2 = complete_e(words, postags, child_dict_list, child_dict['VOB'][0])
-                out_file.write("主语谓语宾语关系\t(%s, %s, %s)\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
+                out_file.write("%s\t%s\t%s\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
                 out_file.flush()
             # 定语后置，动宾关系
             if arcs[index].relation == 'ATT':
@@ -163,7 +163,7 @@ def fact_triple_extract(sentence, out_file):
                     if temp_string == e1[:len(temp_string)]:
                         e1 = e1[len(temp_string):]
                     if temp_string not in e1:
-                        out_file.write("定语后置动宾关系\t(%s, %s, %s)\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
+                        out_file.write("%s\t%s\t%s\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
                         out_file.flush()
             # 含有介宾关系的主谓动补关系
             if  ('SBV') in child_dict and  ('CMP') in child_dict:
@@ -173,7 +173,7 @@ def fact_triple_extract(sentence, out_file):
                 r = words[index] + words[cmp_index]
                 if  ('POB') in child_dict_list[cmp_index]:
                     e2 = complete_e(words, postags, child_dict_list, child_dict_list[cmp_index]['POB'][0])
-                    out_file.write("介宾关系主谓动补\t(%s, %s, %s)\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
+                    out_file.write("%s\t%s\t%s\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
                     out_file.flush()
 
         # 尝试抽取命名实体有关的三元组
@@ -201,7 +201,7 @@ def fact_triple_extract(sentence, out_file):
                     if r in e2:
                         e2 = e2[(e2.index(r)+len(r)):]
                     if r+e2 in sentence:
-                        out_file.write("人名//地名//机构\t(%s, %s, %s)\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
+                        out_file.write("%s\t%s\t%s\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
                         out_file.flush()
 
 
