@@ -43,3 +43,42 @@
 导入数据库后知识图谱示例：
 
 ![1553777652173](README.assets/1553777652173.png)
+
+
+
+
+提供一种可实时跟新并检查节点和关系是否已存在数据库的方式：merge
+1.找不到标签则创建：
+MERGE (type:nodename)
+RETURN type, labels(type)
+
+2.找不到属性则创建:
+MERGE (charlie { name: 'Charlie Sheen', age: 10 })
+RETURN charlie
+
+3.找不到标签和属性则创建:
+MERGE (michael:Person { name: 'Michael Douglas' })
+RETURN michael.name, michael.bornIn
+
+4.根据已有的节点属性创建:
+MATCH (person:Person)
+MERGE (city:City { name: person.bornIn })
+RETURN person.name, person.bornIn, city
+
+5.在创建的时候使用on create(在创建时进行一些操作):
+MERGE (keanu:Person { name: 'Keanu Reeves' })
+ON CREATE SET keanu.created = timestamp()
+RETURN keanu.name, keanu.created
+
+6.在创建的时候使用 on match:
+MERGE (person:Person)
+ON MATCH SET person.found = TRUE RETURN person.name, person.found
+
+7.同时使用on create 和 on match:
+MERGE (keanu:Person { name: 'Keanu Reeves' })
+ON CREATE SET keanu.created = timestamp()
+ON MATCH SET keanu.lastSeen = timestamp()
+RETURN keanu.name, keanu.created, keanu.lastSeen
+
+参考文献:
+https://neo4j.com/docs/developer-manual/3.4/cypher/clauses/merge/
