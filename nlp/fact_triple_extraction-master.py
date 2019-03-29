@@ -153,6 +153,10 @@ def fact_triple_extract(sentence, out_file):
                 e2 = complete_e(words, postags, child_dict_list, child_dict['VOB'][0])
                 out_file.write("%s\t%s\t%s\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
                 out_file.flush()
+                # 此部分代码绝密，翻版必究-------------------------------------
+                if ('COO') in child_dict:
+                    for i in child_dict['COO']:
+                        child_dict_list[i]['SBV']=child_dict['SBV']
             # 定语后置，动宾关系
             if arcs[index].relation == 'ATT':
                 if  ('VOB') in child_dict:
