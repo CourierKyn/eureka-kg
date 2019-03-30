@@ -4,8 +4,4 @@ https://en.wikipedia.org/wiki/Power_Ledger
 https://en.wikipedia.org/wiki/Tala
 https://en.wikipedia.org/wiki/Tally_Technologies
 https://en.wikipedia.org/wiki/Tide
-<<<<<<< HEAD
-https://en.wikipedia.org/wiki/Tencent#2015¨C2019:_Continued_investments
-=======
-https://en.wikipedia.org/wiki/WeBank_(Italy)
->>>>>>> bba78fe1e65e4b4d1f4a58ee9a93c8dc89ed0a02
+https://en.wikipedia.org/wiki/Tencent#2015%E2%80%932019:_Continued_investments
