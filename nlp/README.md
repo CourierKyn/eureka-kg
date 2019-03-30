@@ -7,7 +7,7 @@ https://github.com/HIT-SCIR/ltp #我们使用的开源nlp
 https://blog.csdn.net/kevin_darkelf/article/details/39520881 #中文分词词性对照表##重要，我们要添加一些自己的字典###外部字典文件本身是一个文本文件，编码使用utf-8
 # 抽取三元组
 使用以下代码在命令行运行.py文件：
-python fact_triple_extraction-master.py input.txt out_file_name.txt 
+python fact_triple_extraction-master.py data/utf_8data/hibtc1.txt data/out_file/hibtc1.txt # 文件夹名自定义
 # 字典格式
 dict.txt格式已在文件夹中给出
 # json解析

@@ -93,7 +93,7 @@ def extraction_start(in_file_name, out_file_name, begin_line, end_line):
     out_file = open(out_file_name, 'a', encoding='utf-8')
     
     line_index = 1
-    sentence_number = 0
+  #  sentence_number = 0
     text_line = in_file.readline() # 读取一行
     while text_line:
         # 读取下一行----------------------------
@@ -114,9 +114,9 @@ def extraction_start(in_file_name, out_file_name, begin_line, end_line):
             out_file.flush() #把缓冲区的文件强制写出，这里可能可以优化
         except:
             pass
-        sentence_number += 1
-        if sentence_number % 50 == 0:
-            print("完成50个句子的抽取")
+  #      sentence_number += 1
+  #      if sentence_number % 50 == 0:
+  #          print("完成50个句子的抽取")
         text_line = in_file.readline()
         line_index += 1
     in_file.close()
@@ -147,6 +147,9 @@ def fact_triple_extract(sentence, out_file):
         if postags[index] == 'v':
             child_dict = child_dict_list[index]
             # 主谓宾
+            if len(words[child_dict['SBV'][0]])==1:#如果主语只有一个字，则跳过
+                print('pass---------------------')
+                continue
             if   ('SBV') in child_dict and  ('VOB') in child_dict:
                 e1 = complete_e(words, postags, child_dict_list, child_dict['SBV'][0])
                 r = words[index]
