@@ -133,3 +133,5 @@ RETURN keanu.name, keanu.created, keanu.lastSeen
 https://neo4j.com/docs/developer-manual/3.4/cypher/clauses/merge/
 
 即将更新在Windows下的数据库备份与恢复，考虑使用neo4j-admin dump来做（敬请期待）！
+
+已更新nlp组的数据，并尝试提取三元组。
