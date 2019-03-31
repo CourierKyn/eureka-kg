@@ -27,17 +27,20 @@ def get_description_investors(text):
     try:
         Description = patternOfDescription.findall(text)[0]
     except:
-        if patternOfDescription_1.findall(text)[0]:
-            Description = patternOfDescription_1.findall(text)[0]
-        else:
-            Description = None
+        try:
+            Description = patternOfDescription_2.findall(text)[0]
+        except:
+            try:
+                Description = patternOfDescription_1.findall(text)[0]
+            except:
+                Description = None
     try:
         Investors = patternOfInvestors.findall(text)[0]
     except:
-        # if patternOfInvestors_new.findall(text)[0]:
-        #     Investors = patternOfInvestors_new.findall(text)[0]
-        # else:
-        Investors = None
+        try:
+            Investors = patternOfInvestors_2.findall(text)[0]
+        except:
+            Investors = None
     return {'Description':Description,'Investors':Investors}
 
 def get_other_information(text):
@@ -101,5 +104,5 @@ if __name__ == '__main__':
         other_information = get_other_information("".join(page.letterings.iter_in_bbox(glance_box)))
         Company100Information.append(dict((dict(name, **description_investor)),**other_information))
         a += 1
-    with open('Company100Information.json', 'w') as f:
+    with open('company_100_information.json', 'w') as f:
             json.dump(Company100Information, f, indent=4)
