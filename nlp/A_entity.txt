@@ -1,0 +1,45 @@
+Artificial general intelligence (AGI)
+strong AI
+Artificial narrow intelligence (ANI)
+weak AI
+Artificial neural network (ANN)
+Backpropagation
+Bayesian networks
+Bayes network
+Bayes model
+belief network
+decision network
+Classification
+Clustering
+Cognitive computing
+Computer vision
+Convolutional neural network (CNN)
+Deep learning
+Generative adversarial networks (GAN)
+Genetic algorithm
+Heuristic
+Limited memory
+Machine translation
+Natural language processing (NLP)
+Neural networks
+Optical Character Recognition (OCR)
+Pattern recognition
+Reactive machines
+Recurrent neural network (RNN)
+Reinforcement learning
+Robotics
+Strong AI
+Structured data
+Supervised learning
+Transfer learning
+Turing Test
+Unstructured data
+Unsupervised learning
+Weak AI
+Artificial intelligence
+Big data
+Chatbots
+Data mining
+Image recognition
+Machine learning (ML)
+Robotic process automation (RPA)

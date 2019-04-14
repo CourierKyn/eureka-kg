@@ -1,0 +1,89 @@
+ABI
+Altcoin
+API
+Bitcoin
+Blockchain
+Business logic layer
+Business network card
+Casper
+CDN
+Centralized
+Chaincode
+Coin
+Composer CLI
+Composer Rest Server
+Consensus
+CRUD
+Cryptographic Hash Function
+Dapps
+DAO
+DDos Attacks
+Decentralized
+Digital Asset
+Digital signature
+Distributed Ledger
+Enum
+EOA
+ERC
+Ethereum
+Fork
+Gas
+Genesis Block
+Github
+Golang
+Gossip Protocol
+Governance
+Hard Fork
+Hash function
+Hyperledger
+Hyperledger Composer
+Hyperledger Fabric
+IDE
+Immutable
+ICO
+Initial Coin Offering
+Instantiate
+Invariant
+IPFS
+Merkle Tree
+Mining
+Mining pool
+Mist
+MSP
+Node
+Nonce
+Nothing at Stake problem
+NPM
+Oauth protocol
+Ommer
+On-chain governance
+Oracles
+Orderer Network
+P2P
+PKI
+Pragma(s) 
+Pragma-line
+Private Blockchain
+Proof of Activity
+Proof of Burn
+Proof of Capacity
+Proof of elapsed time
+Proof of Stake
+Proof of Work
+Pub
+Sub
+Public key cryptography
+REST API
+RPC
+SDK
+Sharding
+Smart Contract
+Solidity
+Token
+Turing Complete language
+Ubuntu
+UTXO
+VIPER
+Wallet
+Zeppelin
+51% Attack

@@ -1,0 +1,99 @@
+Advertising-based pricing model
+Amazon Elastic Compute Cloud (EC2)
+Amazon Simple Storage Service (S3)
+Apache Hadoop
+AWS
+Content delivery network (CDN)
+Cloud
+Cloud portability
+Cloud provider
+Cloudsourcing
+Cloud storage
+Cloudware
+Cluster
+Consumer cloud
+Consumption-based pricing model
+Content Management Interoperability Services (CMIS)
+Customer self-service
+Disruptive technology
+Docker
+Elastic computing
+External cloud
+Google App Engine
+Google Apps
+Hardware as a Service (HaaS)
+Hosted application
+Hybrid cloud
+Infrastructure as a Service (IaaS)
+Internal cloud
+Microsoft Azure
+Microsoft Office 365
+Middleware
+Multitenancy
+On-demand service
+OpenStack
+PaaS
+Pay as you go
+Private cloud
+Public cloud
+Software as a Service (SaaS)
+Salesforce
+Service migration
+Service provider
+Service level agreement (SLA)
+Social networking service (SNS)
+Software plus services
+Subscription-based pricing model
+Utility computing
+Vendor lock-in
+Vertical cloud
+Virtual private data center
+Virtual private cloud (VPC)
+Advertising-based pricing model
+Amazon EC2
+Amazon S3
+CDN
+Cloud
+Cloud broker
+Cloud operating system
+Cloud Oriented Architecture
+Cloud portability
+Cloud provider
+Cloud storage
+Cloudsourcing
+Cloudstorming
+Cloudware
+Cluster
+Consumption-based pricing model
+Customer self-service
+Disruptive technology
+Elastic computing
+External cloud
+Google App Engine
+Google Apps
+HaaS
+Hosted application
+Hybrid cloud
+IaaS
+IBM Smart Business
+Internal cloud
+Mashup
+Microsoft Azure
+Middleware
+On-demand service
+PaaS
+Pay as you go
+Private cloud
+Public cloud
+SaaS
+Salesforce.com
+Service migration
+Service provider
+SLA
+Subscription-based pricing model
+Utility computing
+Vendor lock-in
+Vertical cloud
+Virtual private data center
+VPC
+Windows Live Services

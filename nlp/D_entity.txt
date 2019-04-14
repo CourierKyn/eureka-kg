@@ -1,0 +1,102 @@
+ Algorithm
+ Artificial Intelligence (AI)
+ Automatic Identification and Data Capture (AIDC)
+ Avro
+ Behavioral Analytics
+ Business Intelligence
+ Big Data Scientist
+ Biometrics 
+ Cascading
+ Call Detail Record (CDR) Analysis
+ Cassandra
+ Cell Phone Data
+ Cloud Computing
+ Cluster Analysis
+ Chukwa
+ Columnar Database
+ Column-Oriented Database
+ Comparative Analytic-oriented Database
+ Complex Event Processing (CEP)
+ Data Analyst
+ Data Aggregation
+ Dashboard
+ Data Scientist
+ Data Architecture and Design
+ Database administrator (DBA)
+ Database Management System (DBMS)
+ Data Model and Data Modelling
+ Data Cleansing
+ Document Management
+ Data Visualization
+ Data Warehouse
+ Drill
+ Extract, Transform, and Load (ETL)
+ Fuzzy Logic
+ Flume
+ Graph Database
+ Grid Computing
+ Gamification
+ Hadoop User Experience (HUE)
+ High-Performance Analytical Application (HANA)
+ HAMA
+ Hadoop Distributed File System (HDFS)
+ HBase
+ Hive
+ Impala
+ Key Value Stores / Key Value Databases
+ Load balancing
+ Linked Data
+ Location Analytics
+ Log File
+ Metadata
+ MongoDB
+ Multi-Dimensional Database (MDB)
+ Multi-Value Database
+ Machine-Generated Data
+ Machine Learning
+ MapReduce
+ Mahout
+ Network Analysis
+ NewSQL
+ NoSQL
+ Object Databases
+ Object-based Image Analysis
+ Online Analytical  Processing (OLAP)
+ Online transactional processing (OLTP)
+ Open Data Center Alliance (ODCA)
+ Operational Data Store (ODS)
+ Oozie
+ Parallel Data Analysis
+ Parallel Method Invocation (PMI)
+ Parallel Processing
+ Parallel Query
+ Pattern Recognition
+ Pentaho
+ Petabyte
+ Query
+ Query Analysis
+ R
+ Re-identification
+ Real-time Data
+ Reference Data
+ Recommendation Engine
+ Risk Analysis
+ Routing Analysis
+ SaaS
+ Semi-Structured Data
+ Server
+ Spatial Analysis
+ Structured Query Language (SQL)
+ Sqoop
+ Storm
+ Text Analytics
+ Thrift
+ Unstructured Data
+ Value
+ Volume
+ WebHDFS Apache Hadoop
+ Weather Data
+ XML Databases
+ Yottabyte
+ ZooKeeper
+ Zettabyte

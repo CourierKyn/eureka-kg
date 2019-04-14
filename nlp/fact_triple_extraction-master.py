@@ -152,6 +152,9 @@ def fact_triple_extract(sentence, out_file):
                 continue
             if   ('SBV') in child_dict and  ('VOB') in child_dict:
                 e1 = complete_e(words, postags, child_dict_list, child_dict['SBV'][0])
+                if len(e1)==1:#如果主语只有一个字，则跳过
+                    print('pass---------------------')
+                    continue
                 r = words[index]
                 e2 = complete_e(words, postags, child_dict_list, child_dict['VOB'][0])
                 out_file.write("%s\t%s\t%s\n" % (e1, r, e2)) #此处三元组的输出格式有待规范
