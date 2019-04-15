@@ -1,4 +1,6 @@
 entity,explanation
+101,Blockchain
+101,Cryptocurrencies
 Asymmetric Cryptography (Public Key Cryptography),"Asymmetric cryptography, is also known as public key cryptography. It uses public and private keys to encrypt and decrypt data. The keys are large numbers that have been paired together but are not identical (asymmetric). A public key can be shared with everyone. The private key in the pair is kept secret. Protocols such as SSH, S/MIME rely on asymmetric cryptography for encyption and digital signature functions."
 Blockchain,"Blockchain is a type of distributed ledger, comprised of unchangable, digitally recorded data in packages called blocks (rather like collating them on to a single sheet of paper). Each block is then ‘chained’ to the next block, using a cryptographic signature. This allows block chains to be used like a ledger, which can be shared and accessed by anyone with the appropriate permissions."
 Burning,"Refers to the Proof of Burn consensus algorithm. Burning coins is the action of sending them to an address where they are irretrievable. As a miner, the more coins you burn, the better chance you have of being selected to mine the next block, thus earning more rewards."
