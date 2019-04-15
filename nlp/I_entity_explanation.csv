@@ -1,0 +1,34 @@
+entity	explanation
+6LoWPAN	An acronym that combines the latest version of the Internet Protocol (IPv6) and Low-power Wireless Personal Area Networks (LoWPAN). 6LoWPAN is a protocol that allows power constrained IoT devices to access the TCP/IP internet directly.
+Advanced Encryption Standard (AES)	Electronic data encryption specification, established in 2001, operating on a public/private key system. Planning for key management is important when implementing AES.
+Application Programming Interface (API)	A way for computers to talk to hardware or software platforms in a less complicated way.
+Big Data	A very large set of data that can be analyzed for patterns and trends. Big data provides valuable (and very profitable) insights that can be used to identify service or product opportunities and customer behaviors.
+Bluetooth Low Energy (BLE)	Also known as Bluetooth 4.0, this is a wireless, personal-area network with short-range and low-power consumption that allows for objects to transmit data.
+Cloud Computing	"""In the cloud"" refers to a network of remote servers hosted online that store, manage, and process data."
+Embedded Software	Instruction code that runs on hardware microcontrollers. Usually it is performing specific low-level functions, often without using an operating system.
+Firmware Over-the-Air (FOTA)	A mobile technology enabling manufacturers to wirelessly repair bugs or remotely install new software, features, and services on a mobile device after product distribution.
+Gateway	A device that receives information from many other points on the network and transmits information to another network.
+General Packet Radio Service (GPRS)	A wireless communications standard on 2G and 3G cellular networks supporting a number of bandwidths and providing data rates of 56-114 kbps.
+Industrial IoT (IIoT)	M2M communication for machinery and other industrial applications.
+Industrial, Scientific, and Medical (ISM) Band	An unlicensed part of the RF spectrum used for general purpose data communications. In the US, the ISM bands are 915MHz, 2.4 GHz, and 5.5 GHz, whereas 2.4 GHz is the global unlicensed frequency, and has increasing amounts of interference.
+Link Budget	An accounting of all of the losses (e.g. from antennas, structural attenuation, propagation loss) in a wireless communication system.
+Low-Power Wide Area (LPWA)	LPWA networks are built specifically for M2M communications and offer long-range, low-power consumption.
+Low-Power Wireless Sensor Network	A group of spatially distributed, independent devices that collect data by measuring physical or environmental conditions with minimal power consumption.
+LoRa Protocol (LoRaWAN)	A LPWAN specification deployed internally to enable IoT and M2M, intended for carrier networks of wireless, battery-operated things.
+LTE-M	An abbreviation for LTE-MTC (or machine-type communications), LTE-M is a more energy efficient part of the LTE system. Because of its extended discontinuous repetition cycle (eDRX) an endpoint can communicate with the tower or network on how often it will wake up to listen for the downlink.
+Machine to Machine (M2M)	Connected devices exchanging information with other connected devices, without human assistance.
+Media Access Control (MAC)	One of two sublayers in a network, the MAC address is a unique identifier allowing the physical medium (radio waves or wire signals) to be organized to pass data back and forth.
+Mote	"Primarily used in North America, this is one way of referring to an ""endpoint"" in the IoT. Also known as a node, this usually refers to a generic sensor out in the physical world."
+NB-IoT	Even simpler than NB-LTE-M, this is a proposed narrowband (NB) technology not based on LTE. Instead it will likely be deployed on a side band or in deprecated GSM spectrum.
+Near-Field Communication (NFC)	Low-power, low-speed, short-range radio communication standard that allows two-way communication between endpoints within very close proximity.
+Quality of Service (QoS)	QoS manages network capabilities and resources to provide a reliable backbone to IoT connectivity. In order to offer secure and predictable services, QoS can manage delays, bandwidth and packet loss by classifying traffic and registering channel limits.
+Radiofrequency (RF)	"Radio waves. This term generally means ""wireless communication"" when referred to in IoT discussions."
+Radio Frequency Identification (RFID)	"Generally speaking, this is the use of strong radio waves to ""excite"" enough current in a small tag to send a radio transmission back. It works over short range, and only for small amounts of data."
+RF Geolocation	"A general term that applies to ""finding"" a radio transceiver with another -- GPS is a good example."
+Repeater	A device that receives and retransmits a digital signal to extend network reach.
+Smart Meter	An electronic device that collects data about consumption of energy (gas, electric) and communicates it back to the energy company and/or consumer.
+Software-Defined Network (SDN)	An approach to networking that decouples control of information flow from the hardware and gives it to a software controller.
+Structure Attenuation	The loss in intensity of radio waves through a medium (like radio waves through a brick wall).
+Transmission Control Protocol/Internet Protocol (TCP/IP)	"The core standard protocol for internet-based communications. Some wireless systems ""break"" TCP/IP in order to lower the overhead of the on-air signals."
+Ultra-Wide Band (UWB)	"A ""spark gap"" transmitter that emits a very weak, very wide (in frequency) pulse of RF energy. This signal is used mostly for localizing signals. Wide signal bandwidths are good for measuring distance."
+ZigBee/Z-Wave	Short-range, low-power wireless standards used for sensing and control, typically used for personal or home area networks, or in a wireless mesh for longer-range networks. Like 6LoWPAN, designed for low data-rate and battery-powered applications, but Zigbee and Z-Wave technology can require more nodes to function successfully -- which can increase costs.
