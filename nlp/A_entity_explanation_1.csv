@@ -1,336 +1,336 @@
-entity	explanation
-Abductive logic programming	 Abductive logic programming (ALP) is a high-level knowledge-representation framework that can be used to solve problems declaratively based on abductive reasoning. It extends normal logic programming by allowing some predicates to be incompletely defined, declared as abducible predicates.
-Abductive reasoning	 (also called abduction,[1] abductive inference,[1] or retroduction[2]) is a form of logical inference which starts with an observation or set of observations then seeks to find the simplest and most likely explanation. This process, unlike deductive reasoning, yields a plausible conclusion but does not positively verify it.
-Abstract data type	 is a mathematical model for data types, where a data type is defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations.
-Abstraction	 is the process of removing physical, spatial, or temporal details[3] or attributes in the study of objects or systems in order to more closely attend to other details of interest[4]
-Accelerating change	 is a perceived increase in the rate of technological change throughout history, which may suggest faster and more profound change in the future and may or may not be accompanied by equally profound social and cultural change.
-Action language	 is a language for specifying state transition systems, and is commonly used to create formal models of the effects of actions on the world.[5]  Action languages are commonly used in the artificial intelligence and robotics domains, where they describe how actions affect the states of systems over time, and may be used for automated planning.
-Action model learning	 is an area of machine learning concerned with creation and modification of software agent's knowledge about effects and preconditions of the actions that can be executed within its environment. This knowledge is usually represented in logic-based action description language and used as the input for automated planners.
-Action selection	" is a way of characterizing the most basic problem of intelligent systems: what to do next. In artificial intelligence and computational cognitive science, ""the action selection problem"" is typically associated with intelligent agents and animats—artificial systems that exhibit complex behaviour in an agent environment."
-Activation function	" In artificial neural networks, the activation function of a node defines the output of that node, or ""neuron,"" given an input or set of inputs. This output is then used as input for the next node and so on until a desired solution to the original problem is found.[6]"
-Adaptive algorithm	 an algorithm that changes its behavior at the time it is run, based on a priori defined reward mechanism or criterion.
-Adaptive neuro fuzzy inference system	 or adaptive network-based fuzzy inference system (ANFIS) is a kind of artificial neural network that is based on Takagi–Sugeno fuzzy inference system. The technique was developed in the early 1990s.[7][8] Since it integrates both neural networks and fuzzy logic principles, it has potential to capture the benefits of both in a single framework. Its inference system corresponds to a set of fuzzy IF–THEN rules that have learning capability to approximate nonlinear functions.[9] Hence, ANFIS is considered to be a universal estimator.[10] For using the ANFIS in a more efficient and optimal way, one can use the best parameters obtained by genetic algorithm.[11][12]
-Admissible heuristic	 In computer science, specifically in algorithms related to pathfinding, a heuristic function is said to be admissible if it never overestimates the cost of reaching the goal, i.e. the cost it estimates to reach the goal is not higher than the lowest possible cost from the current point in the path.[13]
-Affective computing	  (sometimes called artificial emotional intelligence, or emotion AI)[14] is the study and development of systems and devices that can recognize, interpret, process, and simulate human affects. It is an interdisciplinary field spanning computer science, psychology, and cognitive science.[15]
-Agent architecture	 in computer science is a blueprint for software agents and intelligent control systems, depicting the arrangement of components. The architectures implemented by intelligent agents are referred to as cognitive architectures.[16]
-AI accelerator	 is a class of microprocessor[17] or computer system[18] designed as hardware acceleration for artificial intelligence applications, especially artificial neural networks, machine vision and machine learning.
-AI-complete	 In the field of artificial intelligence, the most difficult problems are informally known as AI-complete or AI-hard, implying that the difficulty of these computational problems is equivalent to that of solving the central artificial intelligence problem—making computers as intelligent as people, or strong AI.[19]  To call a problem AI-complete reflects an attitude that it would not be solved by a simple specific algorithm.
-Algorithm	 is an unambiguous specification of how to solve a class of problems.  Algorithms can perform calculation, data processing and automated reasoning tasks.
-Algorithmic efficiency	 is a property of an algorithm which relates to the number of computational resources used by the algorithm. An algorithm must be analyzed to determine its resource usage, and the efficiency of an algorithm can be measured based on usage of different resources. Algorithmic efficiency can be thought of as analogous to engineering productivity for a repeating or continuous process.
-Algorithmic probability	 In algorithmic information theory, algorithmic probability, also known as Solomonoff probability, is a mathematical method of assigning a prior probability to a given observation. It was invented by Ray Solomonoff in the 1960s.[20]
-AlphaGo	 is a computer program that plays the board game Go.[21] It was developed by Alphabet Inc.'s Google DeepMind in London. AlphaGo has several versions including AlphaGo Zero, AlphaGo Master, AlphaGo Lee, etc.[22]  In October 2015, AlphaGo became the first computer Go program to beat a human professional Go player without handicaps on a full-sized 19×19 board.[23][24]
-Ambient intelligence	  (AmI) refers to electronic environments that are sensitive and responsive to the presence of people.
-Analysis of algorithms	 is the determination of the computational complexity of algorithms, that is the amount of time, storage and/or other resources necessary to execute them. Usually, this involves determining a function that relates the length of an algorithm's input to the number of steps it takes (its time complexity) or the number of storage locations it uses (its space complexity).
-Analytics	 the discovery, interpretation, and communication of meaningful patterns in data.
-Answer set programming	 (ASP) is a form of declarative programming oriented towards difficult (primarily NP-hard) search problems.  It is based on the stable model (answer set) semantics of logic programming.  In ASP, search problems are reduced to computing stable models, and answer set solvers—programs for generating stable models—are used to perform search.
-Anytime algorithm	 an algorithm that can return a valid solution to a problem even if it is interrupted before it ends.
-Application programming interface	 (API) is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer. An API may  be for a web-based system, operating system, database system, computer hardware, or software library.
-Approximate string matching	 (often colloquially referred to as fuzzy string searching) is the technique of finding  strings that match a pattern approximately (rather than exactly). The problem of approximate string matching is typically divided into two sub-problems: finding approximate substring matches inside a given string and finding dictionary strings that match the pattern approximately.
-Approximation error	 The approximation error in some data is the discrepancy between an exact value and some approximation to it.
-Argumentation framework	  or argumentation system, is a way to deal with contentious information and draw conclusions from it. In an abstract argumentation framework,[25] entry-level information is a set of abstract arguments that, for instance, represent data or a proposition. Conflicts between arguments are represented by a binary relation on the set of arguments. In concrete terms, you represent an argumentation framework with a directed graph such that the nodes are the arguments, and the arrows represent the attack relation.  There exist some extensions of the Dung's framework, like the logic-based argumentation frameworks[26] or the value-based argumentation frameworks.[27]
-Artificial immune system	 Artificial immune systems (AIS) are a class of computationally intelligent, rule-based machine learning systems inspired by the principles and processes of the vertebrate immune system. The algorithms are typically modeled after the immune system's characteristics of learning and memory for use in problem-solving.
-Artificial intelligence	" (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals.  In computer science  AI research is defined as the study of ""intelligent agents"": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.[28] Colloquially, the term ""artificial intelligence"" is applied when a machine mimics ""cognitive"" functions that humans associate with other human minds, such as ""learning"" and ""problem solving"".[29]"
-Artificial Intelligence Markup Language	 is an XML dialect for creating natural language software agents.
-Artificial neural network	 (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[30] The neural network itself is not an algorithm, but rather a framework for many different machine learning algorithms to work together and process complex data inputs.[31]
-Association for the Advancement of Artificial Intelligence	 (AAAI) is an international, nonprofit, scientific society devoted to promote research in, and responsible use of, artificial intelligence. AAAI also aims to increase public understanding of artificial intelligence (AI), improve the teaching and training of AI practitioners, and provide guidance for research planners and funders concerning the importance and potential of current AI developments and future directions.[32]
-Asymptotic computational complexity	 In computational complexity theory, asymptotic computational complexity is the usage of asymptotic analysis for the estimation of computational complexity of algorithms and computational problems, commonly associated with the usage of the big O notation.
-Attributional calculus	 is a logic and representation system defined by Ryszard S. Michalski. It combines elements of predicate logic, propositional calculus, and multi-valued logic. Attributional calculus provides a formal language for natural induction, an inductive learning process whose results are in forms natural to people.
-Augmented reality	" (AR) is an interactive experience of a real-world environment where the objects that reside in the real-world are ""augmented"" by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory.[33][34]"
-Automata theory	 is the study of abstract machines and automata, as well as the computational problems that can be solved using them. It is a theory in theoretical computer science and discrete mathematics (a subject of study in both mathematics and computer science).
-Automated planning and scheduling	 sometimes denoted as simply AI Planning,[35] is a branch of artificial intelligence that concerns the realization of strategies or action sequences, typically for execution by intelligent agents, autonomous robots and unmanned vehicles. Unlike classical control and classification problems, the solutions are complex and must be discovered and optimized in multidimensional space. Planning is also related to decision theory.
-Automated reasoning	 is an area of computer science and mathematical logic dedicated to understanding different aspects of reasoning. The study of automated reasoning helps produce computer programs that allow computers to reason completely, or nearly completely, automatically. Although automated reasoning is considered a sub-field of artificial intelligence, it also has connections with theoretical computer science, and even philosophy.
-Autonomic computing	 (also known as AC) refers to the self-managing characteristics of distributed computing resources, adapting to unpredictable changes while hiding intrinsic complexity to operators and users. Initiated by IBM in 2001, this initiative ultimately aimed to develop computer systems capable of self-management, to overcome the rapidly growing complexity of computing systems management, and to reduce the barrier that complexity poses to further growth.[36]
-Autonomous car	 A self-driving car, also known as a robot car, autonomous car, auto, or driverless car,[37][38] is a vehicle that is capable of sensing its environment and moving with little or no human input.[39]
-Autonomous robot	 is a robot that performs behaviors or tasks with a high degree of autonomy. Autonomous robotics is usually considered to be a subfield of artificial intelligence, robotics, and information engineering.[40]
-Backpropagation	" is a method used in artificial neural networks to calculate a gradient that is needed in the calculation of the weights to be used in the network.[41] Backpropagation is shorthand for ""the backward propagation of errors,"" since an error is computed at the output and distributed backwards throughout the network’s layers.[42] It is commonly used to train deep neural networks,[43] a term referring to neural networks with more than one hidden layer.[44]"
-Backpropagation through time	  (BPTT) is a gradient-based technique for training certain types of recurrent neural networks. It can be used to train Elman networks. The algorithm was independently derived by numerous researchers[45][46][47]
-Backward chaining	  (or backward reasoning) is an inference method described colloquially as working backward from the goal. It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications.[48]
-Bag-of-words model	 is a simplifying representation used in natural language processing and information retrieval (IR). In this model, a text (such as a sentence or a document) is represented as the bag (multiset) of its words, disregarding grammar and even word order but keeping multiplicity. The bag-of-words model has also been used for computer vision.[49] The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier.[50]
-Bag-of-words model in computer vision	 In computer vision, the bag-of-words model (BoW model) can be applied to image classification, by treating image features as words.  In document classification, a bag of words is a sparse vector of occurrence counts of words; that is, a sparse histogram over the vocabulary.  In computer vision, a bag of visual words is a vector of occurrence counts of a vocabulary of local image features.
-Batch normalization	 is a technique for improving the performance and stability of artificial neural networks. It is a technique to provide any layer in a neural network with inputs that are zero mean/unit variance.[51] Batch normalization was introduced in a 2015 paper.[52][53] It is used to normalize the input layer by adjusting and scaling the activations.[54]
-Bayesian programming	 is a formalism and a methodology for having a technique to specify probabilistic models and solve problems when less than the necessary information is available. Bayes’ Theorem is the central concept behind this programming approach, which states that the probability of something occurring in the future can be inferred by past conditions related to the event.[55]
-Bees algorithm	 is a population-based search algorithm which was developed by Pham, Ghanbarzadeh and et al. in 2005.[56] It mimics the food foraging behaviour of honey bee colonies. In its basic version the algorithm performs a kind of neighbourhood search combined with global search, and can be used for both combinatorial optimization and continuous optimization. The only condition for the application of the bees algorithm is that some measure of distance between the solutions is defined. The effectiveness and specific abilities of the bees algorithm have been proven in a number of studies.[57][58][59][60]
-Behavior informatics	 (BI) is the informatics of behaviors so as to obtain behavior intelligence and behavior insights.[61]
-Behavior tree	   A Behavior Tree (BT) is a mathematical model of plan execution used in computer science, robotics, control systems and video games. They describe switchings between a finite set of tasks in a modular fashion. Their strength comes from their ability to create very complex tasks composed of simple tasks, without worrying how the simple tasks are implemented. BTs present some similarities to hierarchical state machines with the key difference that the main building block of a behavior is a task rather than a state. Its ease of human understanding make BTs less error prone and very popular in the game developer community. BTs have shown to generalize several other control architectures.[62][63]
-Belief-desire-intention software model	
-Bias–variance tradeoff	
-Big data	 is a term used to refer to data sets that are too large or complex for traditional data-processing application software to adequately deal with. Data with many cases (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.[64]
-Big O notation	 is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity.  It is a member of a family of notations invented by Paul Bachmann,[65] Edmund Landau,[66] and others, collectively called Bachmann–Landau notation or asymptotic notation.
-Binary tree	 is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.  A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (L, S, R), where L and R are binary trees or the empty set and S is a singleton set.[67] Some authors allow the binary tree to be the empty set as well.[68]
-Bio-inspired computing	
-Blackboard system	" is an artificial intelligence approach based on the blackboard architectural model,[69][70][71][72] where a common knowledge base, the ""blackboard"", is iteratively updated by a diverse group of specialist knowledge sources, starting with a problem specification and ending with a solution.  Each knowledge source updates the blackboard with a partial solution when its internal constraints match the blackboard state.  In this way, the specialists work together to solve the problem."
-Boltzmann machine	
-Boolean satisfiability problem	
-Brain technology	 or self-learning know-how systems, defines a technology that employs latest findings in neuroscience. The term was first introduced by the Artificial Intelligence Laboratory in Zurich, Switzerland, in the context of the Roboy project.[73] Brain Technology can be employed in robots,[74] know-how management systems[75] and any other application with self-learning capabilities. In particular, Brain Technology applications allow the visualization of the underlying learning architecture often coined as “know-how maps”.
-Branching factor	 In computing, tree data structures, and game theory, the branching factor is the number of children at each node, the outdegree. If this value is not uniform, an average branching factor can be calculated.
-Brute-force search	 or exhaustive search, also known as generate and test, is a very general problem-solving technique and algorithmic paradigm that consists of systematically enumerating all possible candidates for the solution and checking whether each candidate satisfies the problem's statement.
-Capsule neural network	  A Capsule Neural Network (CapsNet) is a machine learning system that is a type of artificial neural network (ANN) that can be used to better model hierarchical relationships. The approach is an attempt to more closely mimic biological neural organization.[76]
-Case-based reasoning	  (CBR), broadly construed, is the process of solving new problems based on the solutions of similar past problems.
-Chatbot	 (also known as a smartbots, talkbot, chatterbot, Bot, IM bot, interactive agent, Conversational interface or Artificial Conversational Entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.[77]
-Cloud robotics	" is a field of robotics that attempts to invoke cloud technologies such as cloud computing, cloud storage, and other Internet technologies centred on the benefits of converged infrastructure and shared services for robotics. When connected to the cloud, robots can benefit from the powerful computation, storage, and communication resources of modern data center in the cloud, which can process and share information from various robots or agent (other machines, smart objects, humans, etc.). Humans can also delegate tasks to robots remotely through networks. Cloud computing technologies enable robot systems to be endowed with powerful capability whilst reducing costs through cloud technologies. Thus, it is possible to build lightweight, low cost, smarter robots have intelligent ""brain"" in the cloud. The ""brain"" consists of data center, knowledge base, task planners, deep learning, information processing, environment models, communication support, etc.[78][79][80][81]"
-Cluster analysis	 or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters). It is a main task of exploratory data mining, and a common technique for statistical data analysis, used in many fields, including machine learning, pattern recognition, image analysis, information retrieval, bioinformatics, data compression, and computer graphics.
-Cobweb	 is an incremental system for hierarchical conceptual clustering. COBWEB was invented by Professor Douglas H. Fisher, currently at Vanderbilt University.[82][83]  COBWEB incrementally organizes observations into a classification tree. Each node in a classification tree represents a class (concept) and is labeled by a probabilistic concept that summarizes the attribute-value distributions of objects classified under the node. This classification tree can be used to predict missing attributes or the class of a new object.[84]
-Cognitive architecture	" The Institute of Creative Technologies defines cognitive architecture as: ""hypothesis about the fixed structures that provide a mind, whether in natural or artificial systems, and how they work together"
-Cognitive computing	 In general, the term cognitive computing has been used to refer to new hardware and/or software that mimics the functioning of the human brain[86][87][88][89][90][91] and helps to improve human decision-making.[92][93] In this sense, CC is a new type of computing with the goal of more accurate models of how the human brain/mind senses, reasons, and responds to stimulus.
-Cognitive science	 is the interdisciplinary, scientific study of the mind and its processes.[94]
-Combinatorial optimization	 In Operations Research, applied mathematics and theoretical computer science, combinatorial optimization  is a topic that consists of finding an optimal object from a finite set of objects.[95]
-Committee machine	 is a type of artificial neural network using a divide and conquer strategy in which the responses of multiple neural networks (experts) are combined into a single response.[96]  The combined response of the committee machine is supposed to be superior to those of its constituent experts.  Compare with ensembles of classifiers.
-Commonsense knowledge	" In artificial intelligence research,  commonsense knowledge consists of facts about the everyday world, such as ""Lemons are sour"", that all humans are expected to know.  The first AI program to address common sense knowledge was  Advice Taker in 1959 by John McCarthy.[97]"
-Commonsense reasoning	 is one of the branches of artificial intelligence that is concerned with simulating the human ability to make presumptions about the type and essence of ordinary situations they encounter every day.[98]
-Computational chemistry	 is a branch of chemistry that uses computer simulation to assist in solving chemical problems.
-Computational complexity theory	 focuses on classifying computational problems according to their inherent difficulty, and relating these classes to each other. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an algorithm.
-Computational creativity	 (also known as artificial creativity, mechanical creativity, creative computing or creative computation) is a multidisciplinary endeavour that includes the fields of artificial intelligence, cognitive psychology, philosophy, and the arts.
-Computational cybernetics	 is the integration of cybernetics and computational intelligence techniques.
-Computational humor	 is a branch of computational linguistics and artificial intelligence which uses computers in humor research.[99]
-Computational intelligence	 (CI), usually refers to the ability of a computer to learn a specific task from data or experimental observation.
-Computational learning theory	 In computer science, computational learning theory (or just learning theory) is a subfield of artificial intelligence devoted to studying the design and analysis of machine learning algorithms.[100]
-Computational linguistics	 is an interdisciplinary field concerned with the statistical or rule-based modeling of natural language from a computational perspective, as well as the study of appropriate computational approaches to linguistic questions.
-Computational mathematics	 the mathematical research in areas of science where computing plays an essential role.
-Computational neuroscience	 (also known as theoretical neuroscience or mathematical neuroscience) is a branch of neuroscience which employs mathematical models, theoretical analysis and abstractions of the brain to understand the principles that govern the development, structure, physiology and cognitive abilities of the nervous system.[101][102][103][104]
-Computational number theory	 also known as algorithmic number theory, it is the study of algorithms for performing number theoretic computations.
-Computational problem	 In theoretical computer science, a computational problem is a mathematical object representing a collection of questions that computers might be able to solve.
-Computational statistics	 or statistical computing, is the interface between statistics and computer science.
-Computer-automated design	
-Computer science	 is the theory, experimentation, and engineering that form the basis for the design and use of computers. It involves the study of algorithms that process, store, and communicate digital information. A computer scientist specializes in the theory of computation and the design of computational systems.[105]
-Computer vision	 is an interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do.[106][107][108]
-Concept drift	 In predictive analytics and machine learning, the concept drift means that the statistical properties of the target variable, which the model is trying to predict, change over time in unforeseen ways. This causes problems because the predictions become less accurate as time passes.
-Connectionism	 is an approach in the fields of cognitive science, that hopes to explain mental phenomena using artificial neural networks (ANN).[109]
-Consistent heuristic	 In the study of path-finding problems in artificial intelligence, a heuristic function is said to be consistent, or monotone, if its estimate is always less than or equal to the estimated distance from any neighboring vertex to the goal, plus the cost of reaching that neighbor.
-Constrained conditional model	
-Constraint logic programming	 is a form of constraint programming, in which logic programming is extended to include concepts from constraint satisfaction. A constraint logic program is a logic program that contains constraints in the body of clauses. An example of a clause including a constraint is A(X,Y) :- X+Y>0, B(X), C(Y). In this clause, X+Y>0 is a constraint; A(X,Y), B(X), and C(Y) are literals as in regular logic programming. This clause states one condition under which the statement A(X,Y) holds: X+Y is greater than zero and both B(X) and C(Y) are true.
-Constraint programming	 is a programming paradigm wherein relations between variables are stated in the form of constraints. Constraints differ from the common primitives of imperative programming languages in that they do not specify a step or sequence of steps to execute, but rather the properties of a solution to be found.
-Constructed language	 (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised. Constructed languages may also be referred to as artificial, planned or invented languages[110]
-Control theory	 in control systems engineering is a subfield of mathematics that deals with the control of continuously operating dynamical systems  in engineered processes and machines. The objective is to develop a control model for controlling such systems using a control action in an optimum manner without delay or overshoot and ensuring control stability.
-Convolutional neural network	 In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. CNNs use a variation of multilayer perceptrons designed to require minimal preprocessing.[111] They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on their shared-weights architecture and translation invariance characteristics.[112][113]
-Crossover	 In genetic algorithms and evolutionary computation, crossover, also called recombination, is a genetic operator used to combine the genetic information of two parents to generate new offspring. It is one way to stochastically generate new solutions from an existing population, and analogous to the crossover that happens during sexual reproduction in biology. Solutions can also be generated by cloning an existing solution, which is analogous to asexual reproduction. Newly generated solutions are typically mutated before being added to the population.
-Darkforest	  is a computer go program developed by Facebook, based on deep learning techniques using a convolutional neural network. Its updated version Darkfores2 combines the techniques of its predecessor with  Monte Carlo tree search.[114][115] The MCTS effectively takes tree search methods commonly seen in computer chess programs and randomizes them.[116] With the update, the system is known as Darkfmcts3.[117]
-Dartmouth workshop	 The Dartmouth Summer Research Project on Artificial Intelligence was the name of a 1956 summer workshop now considered by many[118][119] (though not all[120]) to be the seminal event for artificial intelligence as a field.
-Data fusion	 is the process of integrating multiple data sources to produce more consistent, accurate, and useful information than that provided by any individual data source.[121]
-Data integration	 involves combining data residing in different sources and providing users with a unified view of them.[122] This process becomes significant in a variety of situations, which include both commercial (such as when two similar companies need to merge their databases) and scientific (combining research results from different bioinformatics repositories, for example) domains.  Data integration appears with increasing frequency as the volume (that is, big data[123]) and the need to share existing data explodes.[124]  It has become the focus of extensive theoretical work, and numerous open problems remain unsolved.
-Data mining	 is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
-Data science	" is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured,[125][126] similar to data mining.  Data science is a ""concept to unify statistics, data analysis, machine learning and their related methods"" in order to ""understand and analyze actual phenomena"" with data.[127] It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science."
-Data set	 (or dataset) is a collection of data. Most commonly a data set  corresponds to the contents of a single database table, or a single statistical data matrix, where every column of the table represents a particular variable, and each row corresponds to a given member of the data set in question. The data set lists values for each of the variables, such as height and weight of an object, for each member of the data set.  Each value is known as a datum. The data set may comprise data for one or more members, corresponding to the number of rows.
-Data warehouse	 (DW or DWH), also known as an enterprise data warehouse (EDW), is a system used for reporting and data analysis.[128] DWs are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place[129]
-Datalog	 is a declarative logic programming language that syntactically is a subset of Prolog.  It is often used as a query language for deductive databases.  In recent years, Datalog has found new application in data integration, information extraction, networking, program analysis, security, and cloud computing.[130]
-Decision boundary	 In the case of backpropagation based artificial neural networks or perceptrons, the type of decision boundary that the network can learn is determined by the number of hidden layers the network has. If it has no hidden layers, then it can only learn linear problems. If it has one hidden layer, then it can learn any continuous function on compact subsets of Rn as shown by the Universal approximation theorem, thus it can have an arbitrary decision boundary.
-Decision support system	  (DSS), is an information system that supports business or organizational decision-making activities. DSSs serve the management, operations and planning levels of an organization (usually mid and higher management) and help people make decisions about problems that may be rapidly changing and not easily specified in advance—i.e. unstructured and semi-structured decision problems. Decision support systems can be either fully computerized or human-powered, or a combination of both.
-Decision theory	 (or the theory of choice) is the study of the reasoning underlying an agent's choices.[131] Decision theory can be broken into two branches: normative decision theory, which gives advice on how to make the best decisions given a set of uncertain beliefs and a set of values, and descriptive decision theory which analyzes how existing, possibly irrational agents actually make decisions.
-Decision tree learning	 uses a decision tree (as a predictive model) to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining and machine learning.
-Declarative programming	 is a programming paradigm—a style of building the structure and elements of computer programs—that expresses the logic of a computation without describing its control flow.[132]
-Deductive classifier	 is a type of artificial intelligence inference engine. It takes as input a set of declarations in a frame language about a domain such as medical research or molecular biology. For example, the names of classes, sub-classes, properties, and restrictions on allowable values. Compared to rule-based inference engines, which can only apply triggers like OFF or IF-THEN when a condition is not met, these classifiers seek to mimic human deductive logic.[133]
-Deep Blue	 was a chess-playing computer developed by IBM. It is known for being the first computer chess-playing system to win both a chess game and a chess match against a reigning world champion under regular time controls.
-Deep learning	 (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised or unsupervised.[134][135][136]
-DeepMind	 DeepMind Technologies is a British artificial intelligence company founded in September 2010, currently owned by Alphabet Inc. The company is based in London, with research centres in Canada,[137] France,[138] and the United States.   Acquired by Google in 2014, the company has created a neural network that learns how to play video games in a fashion similar to that of humans,[139] as well as a Neural Turing machine,[140] or a neural network that may be able to access an external memory like a conventional Turing machine, resulting in a computer that mimics the short-term memory of the human brain.[141][142]  The company made headlines in 2016 after its AlphaGo program beat a human professional Go player Lee Sedol, the world champion, in a five-game match, which was the subject of a documentary film.[143]  A more general program, AlphaZero, beat the most powerful programs playing go, chess and shogi (Japanese chess) after a few days of play against itself using reinforcement learning.[144]
-Default logic	 is a non-monotonic logic proposed by Raymond Reiter to formalize reasoning with default assumptions.
-Description logic	 Description logics (DL) are a family of formal knowledge representation languages. Many DLs are more expressive than propositional logic but less expressive than first-order logic. In contrast to the latter, the core reasoning problems for DLs are (usually) decidable, and efficient decision procedures have been designed and implemented for these problems. There are general, spatial, temporal, spatiotemporal, and fuzzy descriptions logics, and each description logic features a different balance between DL expressivity and reasoning complexity by supporting different sets of mathematical constructors.[145]
-Developmental robotics	 (DevRob), sometimes called epigenetic robotics, is a scientific field which aims at studying the developmental mechanisms, architectures and constraints that allow lifelong and open-ended learning of new skills and new knowledge in embodied machines.
-Diagnosis	 is concerned with the development of algorithms and techniques that are able to determine whether the behaviour of a system is correct.  If the system is not functioning correctly, the algorithm should be able to determine, as accurately as possible, which part of the system is failing, and which kind of fault it is facing.  The computation is based on observations, which provide information on the current behaviour.
-Dialogue system	 or conversational agent (CA), is a computer system intended to converse with a human with a coherent structure. Dialogue systems have employed text, speech, graphics, haptics, gestures, and other modes for communication on both the input and output channel.
-Dimensionality reduction	 or dimension reduction, is the process of reducing the number of random variables under consideration[146] by obtaining a set of principal variables. It can be divided into feature selection and feature extraction.[147]
-Discrete system	 is a system with a countable number of states. Discrete systems may be contrasted with continuous systems, which may also be called analog systems. A final discrete system is often modeled with a directed graph and is analyzed for correctness and complexity according to computational theory. Because discrete systems have a countable number of states, they may be described in precise mathematical models. A computer is a finite state machine that may be viewed as a discrete system. Because computers are often used to model not only other discrete systems but continuous systems as well, methods have been developed to represent real-world continuous systems as discrete systems. One such method involves sampling a continuous signal at discrete time intervals.
-Distributed artificial intelligence	 (DAI), also called Decentralized Artificial Intelligence,[148] is a subfield of artificial intelligence research dedicated to the development of distributed solutions for problems. DAI is closely related to and a predecessor of the field of Multi-Agent Systems.
-Dynamic epistemic logic	 (DEL), is a logical framework dealing with knowledge and information change. Typically, DEL focuses on situations involving multiple agents and studies how their knowledge changes when events occur.
-Eager learning	 is a learning method in which the system tries to construct a general, input-independent target function during training of the system, as opposed to lazy learning, where generalization beyond the training data is delayed until a query is made to the system.[149]
-Ebert test	  gauges whether a computer-based synthesized voice[150][151] can tell a joke with sufficient skill to cause people to laugh.[152] It was proposed by film critic Roger Ebert at the 2011 TED conference as a challenge to software developers to have a computerized voice master the inflections, delivery, timing, and intonations of a speaking human.[150] The test is similar to the Turing test proposed by Alan Turing in 1950 as a way to gauge a computer's ability to exhibit intelligent behavior by generating performance indistinguishable from a human being.[153]
-Echo state network	 The echo state network (ESN),[154][155] is a recurrent neural network with a sparsely connected hidden layer (with typically 1% connectivity). The connectivity and weights of hidden neurons are fixed and randomly assigned. The weights of output neurons can be learned so that the network can (re)produce specific temporal patterns. The main interest of this network is that although its behaviour is non-linear, the only weights that are modified during training are for the synapses that connect the hidden neurons to output neurons. Thus, the error function is quadratic with respect to the parameter vector and can be differentiated easily to a linear system.
-Embodied agent	
-Embodied cognitive science	 is an interdisciplinary field of research, the aim of which is to explain the mechanisms underlying intelligent behavior.   It comprises three main methodologies: 1) the modeling of psychological and biological systems in a holistic manner that considers the mind and body as a single entity, 2) the formation of a common set of general principles of intelligent behavior, and 3) the experimental use of robotic agents in controlled environments.
-Error-driven learning	 is a sub-area of machine learning concerned with how an agent ought to take actions in an environment so as to minimize some error feedback. It is a type of reinforcement learning.
-Ensemble averaging	 In machine learning, particularly in the creation of artificial neural networks, ensemble averaging is the process of creating multiple models and combining them to produce a desired output, as opposed to creating just one model.
-Ethics of artificial intelligence	
-Evolutionary algorithm	  (EA), is a subset of evolutionary computation,[156] a generic population-based metaheuristic optimization algorithm. An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection. Candidate solutions to the optimization problem play the role of individuals in a population, and the fitness function determines the quality of the solutions (see also loss function). Evolution of the population then takes place after the repeated application of the above operators.
-Evolutionary computation	 is a family of algorithms for global optimization inspired by biological evolution, and the subfield of artificial intelligence and soft computing studying these algorithms. In technical terms, they are a family of population-based trial and error problem solvers with a metaheuristic or stochastic optimization character.
-Evolving classification function	 (ECF), evolving classifier functions or evolving classifiers are used for classifying and clustering in the field of machine learning and artificial intelligence, typically employed for data stream mining tasks in dynamic and changing environments.
-Existential risk	  is the hypothesis that substantial progress in artificial general intelligence (AGI) could someday result in human extinction or some other unrecoverable global catastrophe.[157][158][159]
-Expert system	 is a computer system that emulates the decision-making ability of a human expert.[160] Expert systems are designed to solve complex problems by reasoning through bodies of knowledge, represented mainly as if–then rules rather than through conventional procedural code.[161]
-Fast-and-frugal trees	  is a type of classification tree. Fast-and-frugal trees can be used as  decision-making tools which operate as lexicographic classifiers, and, if required, associate an action (decision) to each class or category.[162]
-Feature extraction	 In machine learning, pattern recognition and in image processing, feature extraction  starts from an initial set of  measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequent learning and generalization steps, and in some cases leading to better human interpretations. Feature extraction is a dimensionality reduction process, where an initial set of raw variables is reduced to more manageable groups (features) for processing, while still accurately and completely describing the original data set.[163]
-Feature learning	 In machine learning, feature learning or representation learning[164] is a set of techniques that allows a system to automatically discover the representations needed for feature detection or classification from raw data. This replaces manual feature engineering and allows a machine to both learn the features  and use them to perform  a specific task.
-Feature selection	 In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction.
-First-order logic	"  also known as first-order predicate calculus and predicate logic—is a collection of formal systems used in mathematics, philosophy, linguistics, and computer science. First-order logic uses quantified variables over non-logical objects and allows the use of sentences that contain variables, so that rather than propositions such as Socrates is a man one can have expressions in the form ""there exists X such that X is Socrates and X is a man"" and there exists is a quantifier while X is a variable.[165] This distinguishes it from propositional logic, which does not use quantifiers or relations.[166]"
-Fluent	 is a condition that can change over time. In logical approaches to reasoning about actions, fluents can be represented in first-order logic by predicates having an argument that depends on time.
-Formal language	
-Forward chaining	   (or forward reasoning) is one of the two main methods of reasoning when using an inference engine and can be described logically as repeated application of modus ponens. Forward chaining is a popular implementation strategy for expert systems, business and production rule systems. The opposite of forward chaining is backward chaining.  Forward chaining starts with the available data and uses inference rules to extract more data (from an end user, for example) until a goal is reached. An inference engine using forward chaining searches the inference rules until it finds one where the antecedent (If clause) is known to be true. When such a rule is found, the engine can conclude, or infer, the consequent (Then clause), resulting in the addition of new information to its data.[167]
-Frame	" is an artificial intelligence data structure used to divide knowledge into substructures by representing ""stereotyped situations."" Frames are the primary data structure used in artificial intelligence frame language."
-Frame language	is a technology used for knowledge representation in artificial intelligence. Frames are stored as ontologies of sets and subsets of the frame concepts. They are similar to class hierarchies in object-oriented languages although their fundamental design goals are different. Frames are focused on explicit and intuitive representation of knowledge whereas objects focus on encapsulation and information hiding. Frames originated in AI research and objects primarily in software engineering. However, in practice the techniques and capabilities of frame and object-oriented languages overlap significantly.
-Frame problem	 is the problem of finding adequate collections of axioms for a viable description of a robot environment.[168]
-Friendly artificial intelligence	 (also friendly AI or FAI) is a hypothetical artificial general intelligence (AGI) that would have a positive effect on humanity. It is a part of the ethics of artificial intelligence and is closely related to machine ethics. While machine ethics is concerned with how an artificially intelligent agent should behave, friendly artificial intelligence research is focused on how to practically bring about this behaviour and ensuring it is adequately constrained.
-Futures studies	 is the study of postulating possible, probable, and preferable futures and the worldviews and myths that underlie them.[169]
-Fuzzy control system	 is a control system based on fuzzy logic—a mathematical system that analyzes analog input values in terms of  logical variables that take on continuous values between 0 and 1, in contrast to classical or digital logic, which operates on discrete values of either 1 or 0 (true or false, respectively).[170][171]
-Fuzzy logic	" is a simple form for the many-valued logic, in which the truth values of variables may have any degree of ""Truthfulness"" that can be represented by any real number in the range between 0 (as in Completely False) and 1 (as in Completely True) inclusive. Consequently, It is employed to handle the concept of partial truth, where the truth value may range between completely true and completely false. In contrast to Boolean logic, where the truth values of variables may have the integer values 0 or 1 only."
-Fuzzy rule	 Fuzzy rules are used within fuzzy logic systems to infer an output based on input variables.
-Fuzzy set	
-Game theory	 is the study of mathematical models of strategic interaction between rational decision-makers.[172]
-Generative adversarial network	 (GAN), is a class of machine learning systems. Two neural networks contest with each other in a zero-sum game framework.
-Genetic algorithm	 (GA), is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover and selection.[173]
-Genetic operator	 is an operator used in genetic algorithms to guide the algorithm towards a solution to a given problem. There are three main types of operators (mutation, crossover and selection), which must work in conjunction with one another in order for the algorithm to be successful.
-Glowworm swarm optimization	  is a swarm intelligence optimization algorithm developed based on the behaviour of glowworms (also known as fireflies or lightning bugs).
-Graph (abstract data type)	 In computer science, a graph is an abstract data type that is meant to implement the undirected graph and directed graph concepts from mathematics; specifically, the field of graph theory.
-Graph (discrete mathematics)	" In mathematics, and more specifically in graph theory, a graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense ""related"". The objects correspond to mathematical abstractions called vertices (also called nodes or points) and each of the related pairs of vertices is called an edge (also called an arc or line).[174]"
-Graph database	 (GDB[175]),  is a database that uses graph structures for semantic queries with nodes, edges and properties to represent and store data. A key concept of the system is the graph (or edge or relationship), which directly relates data items in the store a collection of nodes of data and edges representing the relationships between the nodes. The relationships allow data in the store to be linked together directly, and in many cases retrieved with one operation. Graph databases hold the relationships between data as a priority. Querying relationships within a graph database is fast because they are perpetually stored within the database itself. Relationships can be intuitively visualized using graph databases, making it useful for heavily inter-connected data.[176]
-Graph theory	  is the study of graphs, which are mathematical structures used to model pairwise relations between objects.
-Graph traversal	  (also known as graph search) refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
-Heuristic	   is a technique designed for solving a problem more quickly when classic methods are too slow, or for finding an approximate solution when classic methods fail to find any exact solution.  This is achieved by trading optimality, completeness, accuracy, or precision for speed.  In a way, it can be considered a shortcut.  A heuristic function, also called simply a heuristic, is a function that ranks alternatives in search algorithms at each branching step based on available information to decide which branch to follow. For example, it may approximate the exact solution.[177]
-Hidden layer	 an internal layer of neurons in an artificial neural network, not dedicated to input or output
-Hidden unit	 an neuron in a hidden layer in an artificial neural network
-Hyper-heuristic	 is a heuristic search method that seeks to automate, often by the incorporation of machine learning techniques, the process of selecting, combining, generating or adapting several simpler heuristics (or components of such heuristics) to efficiently solve computational search problems. One of the motivations for studying hyper-heuristics is to build systems which can handle classes of problems rather than solving just one problem.[178][179][180]
-IEEE Computational Intelligence Society	" is a professional society of the Institute of Electrical and Electronics Engineers (IEEE) focussing on ""the theory, design, application, and development of biologically and linguistically motivated computational paradigms emphasizing neural networks, connectionist systems, genetic algorithms, evolutionary programming, fuzzy systems, and hybrid intelligent systems in which these paradigms are contained"".[181]"
-Incremental learning	 is a method of machine learning, in which input data is continuously used to extend the existing model's knowledge i.e. to further train the model. It represents a dynamic technique of supervised learning and unsupervised learning that can be applied when training data becomes available gradually over time or its size is out of system memory limits. Algorithms that can facilitate incremental learning are known as incremental machine learning algorithms.
-Inference engine	  is a component of the system that applies logical rules to the knowledge base to deduce new information.
-Information integration	 (II), is the merging of information from heterogeneous sources with differing conceptual, contextual and typographical representations. It is used in data mining and consolidation of data from unstructured or semi-structured resources. Typically, information integration refers to textual representations of knowledge but is sometimes applied to rich-media content. Information fusion, which is a related term, involves the combination of information into a new set of information towards reducing redundancy and uncertainty.[121]
-Information Processing Language	 (IPL), is a programming language that includes features intended to help with programs that perform simple problem solving actions such as lists, dynamic memory allocation, data types, recursion, functions as arguments, generators, and cooperative multitasking.  IPL invented the concept of list processing, albeit in an assembly-language style.
-Intelligence amplification	 (IA), (also referred to as cognitive augmentation, machine augmented intelligence and enhanced intelligence), refers to the effective use of information technology in augmenting human intelligence.
-Intelligence explosion	 is a possible outcome of humanity building artificial general intelligence (AGI). AGI would be capable of recursive self-improvement leading to rapid emergence of ASI (artificial superintelligence), the limits of which are unknown, at the time of the technological singularity.
-Intelligent agent	 (IA), is an autonomous entity which acts, directing its activity towards achieving goals (i.e. it is an agent), upon an environment using observation through sensors and consequent actuators (i.e. it is intelligent). Intelligent agents may also learn or use knowledge to achieve their goals. They may be very simple or very complex.
-Intelligent control	  is a class of control techniques that use various artificial intelligence computing approaches like neural networks, Bayesian probability, fuzzy logic, machine learning, reinforcement learning, evolutionary computation and genetic algorithms.[182]
-Intelligent personal assistant	" A virtual assistant or intelligent personal assistant is a software agent that can perform tasks or services for an individual based on verbal commands. Sometimes the term ""chatbot"" is used to refer to virtual assistants generally or specifically accessed by online chat (or in some cases online chat programs that are exclusively for entertainment purposes).  Some virtual assistants are able to interpret human speech and respond via synthesized voices. Users can ask their assistants questions, control home automation devices and media playback via voice, and manage other basic tasks such as email, to-do lists, and calendars with verbal commands. [183]"
-Interpretation (logic)	 is an assignment of meaning to the symbols of a formal language. Many formal languages used in mathematics, logic, and theoretical computer science are defined in solely syntactic terms, and as such do not have any meaning until they are given some interpretation. The general study of interpretations of formal languages is called formal semantics.
-Issue tree	 Also called logic tree, is a graphical breakdown of a question that dissects it into its different components vertically and that progresses into details as it reads to the right.[184]:47  Issue trees are useful in problem solving to identify the root causes of a problem as well as to identify its potential solutions. They also provide a reference point to see how each piece fits into the whole picture of a problem.[185]
-Junction tree algorithm	 (also known as 'Clique Tree')  is a method used in machine learning to extract marginalization in general graphs.  In essence, it entails performing belief propagation on a modified graph called a junction tree. The graph is called a tree because it branches into different sections of data; nodes of variables are the branches.[186]
-Kernel method	 In machine learning, kernel methods are a class of algorithms for pattern analysis, whose best known member is the support vector machine (SVM). The general task of pattern analysis is to find and study general types of relations (for example clusters, rankings, principal components, correlations, classifications) in datasets. In its simplest form, the kernel trick means transforming data into another dimension that has a clear dividing margin between classes of data.[187]
-KL-ONE	
-Knowledge acquisition	
-Knowledge-based systems	
-Knowledge engineering	
-Knowledge extraction	
-Knowledge Interchange Format	
-Knowledge representation and reasoning	
-Linked data	
-Lisp (programming language)	
-Logic programming	
-Long short-term memory	
-Machine vision	
-Markov chain	
-Markov decision process	
-Mathematical optimization	
-Machine learning	
-Machine listening	
-Machine perception	
-Mechanism design	
-Mechatronics	
-Metabolic network modelling	
-Metaheuristic	
-Model checking	
-Modus ponens	
-Modus tollens	
-Monte Carlo tree search	
-Multi-agent system	
-Multi-swarm optimization	
-Mutation	
-Mycin	
-Naive Bayes classifier	
-Naive semantics	
-Name binding	
-Named-entity recognition	
-Named graph	
-Natural language generation	
-Natural language processing	
-Natural language programming	
-Network motif	
-Neural machine translation	
-Neural Turing machine	
-Neuro-fuzzy	
-Neurocybernetics	
-Neuromorphic engineering	
-Node	
-Nondeterministic algorithm	
-Nouvelle AI	
-NP	
-NP-completeness	
-NP-hardness	
-Occam's razor	
-Offline learning	
-Online learning	
-Ontology engineering	
-Ontology learning	
-OpenAI	
-OpenCog	
-Open Mind Common Sense	
-Open-source software	
-Partial order reduction	
-Partially observable Markov decision process	
-Particle swarm optimization	
-Pathfinding	
-Pattern recognition	
-Planner	
-Predicate logic	
-Predictive analytics	
-Principal component analysis	
-Principle of rationality	
-Probabilistic programming language	
-Production Rule Representation	
-Production system	
-Programming language	
-Prolog	
-Propositional calculus	
-Python	
-Qualification problem	
-Quantifier	
-Quantum computing	
-Query language	
-R programming language	
-Radial basis function network	
-Random forest	
-Reasoning system	
-Recurrent neural network	
-Region connection calculus	
-Reinforcement learning	
-Reservoir computing	
-Resource Description Framework	
-Restricted Boltzmann machine	
-Rete algorithm	
-Robotics	
-Rule-based system	
-Satisfiability	
-Search algorithm	
-Selection	
-Self-management	
-Semantic network	
-Semantic reasoner	
-Semantic query	
-Semantics	
-Sensor fusion	
-Separation logic	
-Similarity learning	
-Simulated annealing	
-Situated approach	
-Situation calculus	
-SLD resolution	
-Soft computing	
-Software	
-Software engineering	
-Spatial-temporal reasoning	
-SPARQL	
-Speech recognition	
-Spiking neural network	
-State	
-Statistical classification	
-Statistical relational learning	
-Stochastic optimization	
-STRIPS	
-Subject-matter expert	
-Superintelligence	
-Supervised learning	
-Swarm intelligence	
-Symbolic artificial intelligence	
-Synthetic intelligence	
-Systems neuroscience	
-Technological singularity	
-Temporal difference learning	
-Tensor network theory	
-TensorFlow	
-Theoretical computer science	
-Theory of computation	
-Thompson sampling	
-Time complexity	
-Transhumanism	
-Transition system	
-Tree traversal	
-True quantified Boolean formula	
-Turing test	
-Type system	
-Unsupervised learning	
-Vision processing unit	
-Watson	
-Weak AI	
-World Wide Web Consortium	
+entity,explanation
+Abductive logic programming," Abductive logic programming (ALP) is a high-level knowledge-representation framework that can be used to solve problems declaratively based on abductive reasoning. It extends normal logic programming by allowing some predicates to be incompletely defined, declared as abducible predicates."
+Abductive reasoning," (also called abduction,[1] abductive inference,[1] or retroduction[2]) is a form of logical inference which starts with an observation or set of observations then seeks to find the simplest and most likely explanation. This process, unlike deductive reasoning, yields a plausible conclusion but does not positively verify it."
+Abstract data type," is a mathematical model for data types, where a data type is defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations."
+Abstraction," is the process of removing physical, spatial, or temporal details[3] or attributes in the study of objects or systems in order to more closely attend to other details of interest[4]"
+Accelerating change," is a perceived increase in the rate of technological change throughout history, which may suggest faster and more profound change in the future and may or may not be accompanied by equally profound social and cultural change."
+Action language," is a language for specifying state transition systems, and is commonly used to create formal models of the effects of actions on the world.[5]  Action languages are commonly used in the artificial intelligence and robotics domains, where they describe how actions affect the states of systems over time, and may be used for automated planning."
+Action model learning, is an area of machine learning concerned with creation and modification of software agent's knowledge about effects and preconditions of the actions that can be executed within its environment. This knowledge is usually represented in logic-based action description language and used as the input for automated planners.
+Action selection," is a way of characterizing the most basic problem of intelligent systems: what to do next. In artificial intelligence and computational cognitive science, ""the action selection problem"" is typically associated with intelligent agents and animats—artificial systems that exhibit complex behaviour in an agent environment."
+Activation function," In artificial neural networks, the activation function of a node defines the output of that node, or ""neuron,"" given an input or set of inputs. This output is then used as input for the next node and so on until a desired solution to the original problem is found.[6]"
+Adaptive algorithm," an algorithm that changes its behavior at the time it is run, based on a priori defined reward mechanism or criterion."
+Adaptive neuro fuzzy inference system," or adaptive network-based fuzzy inference system (ANFIS) is a kind of artificial neural network that is based on Takagi–Sugeno fuzzy inference system. The technique was developed in the early 1990s.[7][8] Since it integrates both neural networks and fuzzy logic principles, it has potential to capture the benefits of both in a single framework. Its inference system corresponds to a set of fuzzy IF–THEN rules that have learning capability to approximate nonlinear functions.[9] Hence, ANFIS is considered to be a universal estimator.[10] For using the ANFIS in a more efficient and optimal way, one can use the best parameters obtained by genetic algorithm.[11][12]"
+Admissible heuristic," In computer science, specifically in algorithms related to pathfinding, a heuristic function is said to be admissible if it never overestimates the cost of reaching the goal, i.e. the cost it estimates to reach the goal is not higher than the lowest possible cost from the current point in the path.[13]"
+Affective computing,"  (sometimes called artificial emotional intelligence, or emotion AI)[14] is the study and development of systems and devices that can recognize, interpret, process, and simulate human affects. It is an interdisciplinary field spanning computer science, psychology, and cognitive science.[15]"
+Agent architecture," in computer science is a blueprint for software agents and intelligent control systems, depicting the arrangement of components. The architectures implemented by intelligent agents are referred to as cognitive architectures.[16]"
+AI accelerator," is a class of microprocessor[17] or computer system[18] designed as hardware acceleration for artificial intelligence applications, especially artificial neural networks, machine vision and machine learning."
+AI-complete," In the field of artificial intelligence, the most difficult problems are informally known as AI-complete or AI-hard, implying that the difficulty of these computational problems is equivalent to that of solving the central artificial intelligence problem—making computers as intelligent as people, or strong AI.[19]  To call a problem AI-complete reflects an attitude that it would not be solved by a simple specific algorithm."
+Algorithm," is an unambiguous specification of how to solve a class of problems.  Algorithms can perform calculation, data processing and automated reasoning tasks."
+Algorithmic efficiency," is a property of an algorithm which relates to the number of computational resources used by the algorithm. An algorithm must be analyzed to determine its resource usage, and the efficiency of an algorithm can be measured based on usage of different resources. Algorithmic efficiency can be thought of as analogous to engineering productivity for a repeating or continuous process."
+Algorithmic probability," In algorithmic information theory, algorithmic probability, also known as Solomonoff probability, is a mathematical method of assigning a prior probability to a given observation. It was invented by Ray Solomonoff in the 1960s.[20]"
+AlphaGo," is a computer program that plays the board game Go.[21] It was developed by Alphabet Inc.'s Google DeepMind in London. AlphaGo has several versions including AlphaGo Zero, AlphaGo Master, AlphaGo Lee, etc.[22]  In October 2015, AlphaGo became the first computer Go program to beat a human professional Go player without handicaps on a full-sized 19×19 board.[23][24]"
+Ambient intelligence,  (AmI) refers to electronic environments that are sensitive and responsive to the presence of people.
+Analysis of algorithms," is the determination of the computational complexity of algorithms, that is the amount of time, storage and/or other resources necessary to execute them. Usually, this involves determining a function that relates the length of an algorithm's input to the number of steps it takes (its time complexity) or the number of storage locations it uses (its space complexity)."
+Analytics," the discovery, interpretation, and communication of meaningful patterns in data."
+Answer set programming," (ASP) is a form of declarative programming oriented towards difficult (primarily NP-hard) search problems.  It is based on the stable model (answer set) semantics of logic programming.  In ASP, search problems are reduced to computing stable models, and answer set solvers—programs for generating stable models—are used to perform search."
+Anytime algorithm, an algorithm that can return a valid solution to a problem even if it is interrupted before it ends.
+Application programming interface," (API) is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer. An API may  be for a web-based system, operating system, database system, computer hardware, or software library."
+Approximate string matching, (often colloquially referred to as fuzzy string searching) is the technique of finding  strings that match a pattern approximately (rather than exactly). The problem of approximate string matching is typically divided into two sub-problems: finding approximate substring matches inside a given string and finding dictionary strings that match the pattern approximately.
+Approximation error, The approximation error in some data is the discrepancy between an exact value and some approximation to it.
+Argumentation framework,"  or argumentation system, is a way to deal with contentious information and draw conclusions from it. In an abstract argumentation framework,[25] entry-level information is a set of abstract arguments that, for instance, represent data or a proposition. Conflicts between arguments are represented by a binary relation on the set of arguments. In concrete terms, you represent an argumentation framework with a directed graph such that the nodes are the arguments, and the arrows represent the attack relation.  There exist some extensions of the Dung's framework, like the logic-based argumentation frameworks[26] or the value-based argumentation frameworks.[27]"
+Artificial immune system," Artificial immune systems (AIS) are a class of computationally intelligent, rule-based machine learning systems inspired by the principles and processes of the vertebrate immune system. The algorithms are typically modeled after the immune system's characteristics of learning and memory for use in problem-solving."
+Artificial intelligence," (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals.  In computer science  AI research is defined as the study of ""intelligent agents"": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.[28] Colloquially, the term ""artificial intelligence"" is applied when a machine mimics ""cognitive"" functions that humans associate with other human minds, such as ""learning"" and ""problem solving"".[29]"
+Artificial Intelligence Markup Language, is an XML dialect for creating natural language software agents.
+Artificial neural network," (ANN) or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.[30] The neural network itself is not an algorithm, but rather a framework for many different machine learning algorithms to work together and process complex data inputs.[31]"
+Association for the Advancement of Artificial Intelligence," (AAAI) is an international, nonprofit, scientific society devoted to promote research in, and responsible use of, artificial intelligence. AAAI also aims to increase public understanding of artificial intelligence (AI), improve the teaching and training of AI practitioners, and provide guidance for research planners and funders concerning the importance and potential of current AI developments and future directions.[32]"
+Asymptotic computational complexity," In computational complexity theory, asymptotic computational complexity is the usage of asymptotic analysis for the estimation of computational complexity of algorithms and computational problems, commonly associated with the usage of the big O notation."
+Attributional calculus," is a logic and representation system defined by Ryszard S. Michalski. It combines elements of predicate logic, propositional calculus, and multi-valued logic. Attributional calculus provides a formal language for natural induction, an inductive learning process whose results are in forms natural to people."
+Augmented reality," (AR) is an interactive experience of a real-world environment where the objects that reside in the real-world are ""augmented"" by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory.[33][34]"
+Automata theory," is the study of abstract machines and automata, as well as the computational problems that can be solved using them. It is a theory in theoretical computer science and discrete mathematics (a subject of study in both mathematics and computer science)."
+Automated planning and scheduling," sometimes denoted as simply AI Planning,[35] is a branch of artificial intelligence that concerns the realization of strategies or action sequences, typically for execution by intelligent agents, autonomous robots and unmanned vehicles. Unlike classical control and classification problems, the solutions are complex and must be discovered and optimized in multidimensional space. Planning is also related to decision theory."
+Automated reasoning," is an area of computer science and mathematical logic dedicated to understanding different aspects of reasoning. The study of automated reasoning helps produce computer programs that allow computers to reason completely, or nearly completely, automatically. Although automated reasoning is considered a sub-field of artificial intelligence, it also has connections with theoretical computer science, and even philosophy."
+Autonomic computing," (also known as AC) refers to the self-managing characteristics of distributed computing resources, adapting to unpredictable changes while hiding intrinsic complexity to operators and users. Initiated by IBM in 2001, this initiative ultimately aimed to develop computer systems capable of self-management, to overcome the rapidly growing complexity of computing systems management, and to reduce the barrier that complexity poses to further growth.[36]"
+Autonomous car," A self-driving car, also known as a robot car, autonomous car, auto, or driverless car,[37][38] is a vehicle that is capable of sensing its environment and moving with little or no human input.[39]"
+Autonomous robot," is a robot that performs behaviors or tasks with a high degree of autonomy. Autonomous robotics is usually considered to be a subfield of artificial intelligence, robotics, and information engineering.[40]"
+Backpropagation," is a method used in artificial neural networks to calculate a gradient that is needed in the calculation of the weights to be used in the network.[41] Backpropagation is shorthand for ""the backward propagation of errors,"" since an error is computed at the output and distributed backwards throughout the network’s layers.[42] It is commonly used to train deep neural networks,[43] a term referring to neural networks with more than one hidden layer.[44]"
+Backpropagation through time,  (BPTT) is a gradient-based technique for training certain types of recurrent neural networks. It can be used to train Elman networks. The algorithm was independently derived by numerous researchers[45][46][47]
+Backward chaining,"  (or backward reasoning) is an inference method described colloquially as working backward from the goal. It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications.[48]"
+Bag-of-words model," is a simplifying representation used in natural language processing and information retrieval (IR). In this model, a text (such as a sentence or a document) is represented as the bag (multiset) of its words, disregarding grammar and even word order but keeping multiplicity. The bag-of-words model has also been used for computer vision.[49] The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier.[50]"
+Bag-of-words model in computer vision," In computer vision, the bag-of-words model (BoW model) can be applied to image classification, by treating image features as words.  In document classification, a bag of words is a sparse vector of occurrence counts of words; that is, a sparse histogram over the vocabulary.  In computer vision, a bag of visual words is a vector of occurrence counts of a vocabulary of local image features."
+Batch normalization, is a technique for improving the performance and stability of artificial neural networks. It is a technique to provide any layer in a neural network with inputs that are zero mean/unit variance.[51] Batch normalization was introduced in a 2015 paper.[52][53] It is used to normalize the input layer by adjusting and scaling the activations.[54]
+Bayesian programming," is a formalism and a methodology for having a technique to specify probabilistic models and solve problems when less than the necessary information is available. Bayes’ Theorem is the central concept behind this programming approach, which states that the probability of something occurring in the future can be inferred by past conditions related to the event.[55]"
+Bees algorithm," is a population-based search algorithm which was developed by Pham, Ghanbarzadeh and et al. in 2005.[56] It mimics the food foraging behaviour of honey bee colonies. In its basic version the algorithm performs a kind of neighbourhood search combined with global search, and can be used for both combinatorial optimization and continuous optimization. The only condition for the application of the bees algorithm is that some measure of distance between the solutions is defined. The effectiveness and specific abilities of the bees algorithm have been proven in a number of studies.[57][58][59][60]"
+Behavior informatics, (BI) is the informatics of behaviors so as to obtain behavior intelligence and behavior insights.[61]
+Behavior tree,"   A Behavior Tree (BT) is a mathematical model of plan execution used in computer science, robotics, control systems and video games. They describe switchings between a finite set of tasks in a modular fashion. Their strength comes from their ability to create very complex tasks composed of simple tasks, without worrying how the simple tasks are implemented. BTs present some similarities to hierarchical state machines with the key difference that the main building block of a behavior is a task rather than a state. Its ease of human understanding make BTs less error prone and very popular in the game developer community. BTs have shown to generalize several other control architectures.[62][63]"
+Belief-desire-intention software model,
+Bias–variance tradeoff,
+Big data," is a term used to refer to data sets that are too large or complex for traditional data-processing application software to adequately deal with. Data with many cases (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.[64]"
+Big O notation," is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity.  It is a member of a family of notations invented by Paul Bachmann,[65] Edmund Landau,[66] and others, collectively called Bachmann–Landau notation or asymptotic notation."
+Binary tree," is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.  A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (L, S, R), where L and R are binary trees or the empty set and S is a singleton set.[67] Some authors allow the binary tree to be the empty set as well.[68]"
+Bio-inspired computing,
+Blackboard system," is an artificial intelligence approach based on the blackboard architectural model,[69][70][71][72] where a common knowledge base, the ""blackboard"", is iteratively updated by a diverse group of specialist knowledge sources, starting with a problem specification and ending with a solution.  Each knowledge source updates the blackboard with a partial solution when its internal constraints match the blackboard state.  In this way, the specialists work together to solve the problem."
+Boltzmann machine,
+Boolean satisfiability problem,
+Brain technology," or self-learning know-how systems, defines a technology that employs latest findings in neuroscience. The term was first introduced by the Artificial Intelligence Laboratory in Zurich, Switzerland, in the context of the Roboy project.[73] Brain Technology can be employed in robots,[74] know-how management systems[75] and any other application with self-learning capabilities. In particular, Brain Technology applications allow the visualization of the underlying learning architecture often coined as “know-how maps”."
+Branching factor," In computing, tree data structures, and game theory, the branching factor is the number of children at each node, the outdegree. If this value is not uniform, an average branching factor can be calculated."
+Brute-force search," or exhaustive search, also known as generate and test, is a very general problem-solving technique and algorithmic paradigm that consists of systematically enumerating all possible candidates for the solution and checking whether each candidate satisfies the problem's statement."
+Capsule neural network,  A Capsule Neural Network (CapsNet) is a machine learning system that is a type of artificial neural network (ANN) that can be used to better model hierarchical relationships. The approach is an attempt to more closely mimic biological neural organization.[76]
+Case-based reasoning,"  (CBR), broadly construed, is the process of solving new problems based on the solutions of similar past problems."
+Chatbot," (also known as a smartbots, talkbot, chatterbot, Bot, IM bot, interactive agent, Conversational interface or Artificial Conversational Entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.[77]"
+Cloud robotics," is a field of robotics that attempts to invoke cloud technologies such as cloud computing, cloud storage, and other Internet technologies centred on the benefits of converged infrastructure and shared services for robotics. When connected to the cloud, robots can benefit from the powerful computation, storage, and communication resources of modern data center in the cloud, which can process and share information from various robots or agent (other machines, smart objects, humans, etc.). Humans can also delegate tasks to robots remotely through networks. Cloud computing technologies enable robot systems to be endowed with powerful capability whilst reducing costs through cloud technologies. Thus, it is possible to build lightweight, low cost, smarter robots have intelligent ""brain"" in the cloud. The ""brain"" consists of data center, knowledge base, task planners, deep learning, information processing, environment models, communication support, etc.[78][79][80][81]"
+Cluster analysis," or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters). It is a main task of exploratory data mining, and a common technique for statistical data analysis, used in many fields, including machine learning, pattern recognition, image analysis, information retrieval, bioinformatics, data compression, and computer graphics."
+Cobweb," is an incremental system for hierarchical conceptual clustering. COBWEB was invented by Professor Douglas H. Fisher, currently at Vanderbilt University.[82][83]  COBWEB incrementally organizes observations into a classification tree. Each node in a classification tree represents a class (concept) and is labeled by a probabilistic concept that summarizes the attribute-value distributions of objects classified under the node. This classification tree can be used to predict missing attributes or the class of a new object.[84]"
+Cognitive architecture," The Institute of Creative Technologies defines cognitive architecture as: ""hypothesis about the fixed structures that provide a mind, whether in natural or artificial systems, and how they work together"
+Cognitive computing," In general, the term cognitive computing has been used to refer to new hardware and/or software that mimics the functioning of the human brain[86][87][88][89][90][91] and helps to improve human decision-making.[92][93] In this sense, CC is a new type of computing with the goal of more accurate models of how the human brain/mind senses, reasons, and responds to stimulus."
+Cognitive science," is the interdisciplinary, scientific study of the mind and its processes.[94]"
+Combinatorial optimization," In Operations Research, applied mathematics and theoretical computer science, combinatorial optimization  is a topic that consists of finding an optimal object from a finite set of objects.[95]"
+Committee machine, is a type of artificial neural network using a divide and conquer strategy in which the responses of multiple neural networks (experts) are combined into a single response.[96]  The combined response of the committee machine is supposed to be superior to those of its constituent experts.  Compare with ensembles of classifiers.
+Commonsense knowledge," In artificial intelligence research,  commonsense knowledge consists of facts about the everyday world, such as ""Lemons are sour"", that all humans are expected to know.  The first AI program to address common sense knowledge was  Advice Taker in 1959 by John McCarthy.[97]"
+Commonsense reasoning, is one of the branches of artificial intelligence that is concerned with simulating the human ability to make presumptions about the type and essence of ordinary situations they encounter every day.[98]
+Computational chemistry, is a branch of chemistry that uses computer simulation to assist in solving chemical problems.
+Computational complexity theory," focuses on classifying computational problems according to their inherent difficulty, and relating these classes to each other. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an algorithm."
+Computational creativity," (also known as artificial creativity, mechanical creativity, creative computing or creative computation) is a multidisciplinary endeavour that includes the fields of artificial intelligence, cognitive psychology, philosophy, and the arts."
+Computational cybernetics, is the integration of cybernetics and computational intelligence techniques.
+Computational humor, is a branch of computational linguistics and artificial intelligence which uses computers in humor research.[99]
+Computational intelligence," (CI), usually refers to the ability of a computer to learn a specific task from data or experimental observation."
+Computational learning theory," In computer science, computational learning theory (or just learning theory) is a subfield of artificial intelligence devoted to studying the design and analysis of machine learning algorithms.[100]"
+Computational linguistics," is an interdisciplinary field concerned with the statistical or rule-based modeling of natural language from a computational perspective, as well as the study of appropriate computational approaches to linguistic questions."
+Computational mathematics, the mathematical research in areas of science where computing plays an essential role.
+Computational neuroscience," (also known as theoretical neuroscience or mathematical neuroscience) is a branch of neuroscience which employs mathematical models, theoretical analysis and abstractions of the brain to understand the principles that govern the development, structure, physiology and cognitive abilities of the nervous system.[101][102][103][104]"
+Computational number theory," also known as algorithmic number theory, it is the study of algorithms for performing number theoretic computations."
+Computational problem," In theoretical computer science, a computational problem is a mathematical object representing a collection of questions that computers might be able to solve."
+Computational statistics," or statistical computing, is the interface between statistics and computer science."
+Computer-automated design,
+Computer science," is the theory, experimentation, and engineering that form the basis for the design and use of computers. It involves the study of algorithms that process, store, and communicate digital information. A computer scientist specializes in the theory of computation and the design of computational systems.[105]"
+Computer vision," is an interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do.[106][107][108]"
+Concept drift," In predictive analytics and machine learning, the concept drift means that the statistical properties of the target variable, which the model is trying to predict, change over time in unforeseen ways. This causes problems because the predictions become less accurate as time passes."
+Connectionism," is an approach in the fields of cognitive science, that hopes to explain mental phenomena using artificial neural networks (ANN).[109]"
+Consistent heuristic," In the study of path-finding problems in artificial intelligence, a heuristic function is said to be consistent, or monotone, if its estimate is always less than or equal to the estimated distance from any neighboring vertex to the goal, plus the cost of reaching that neighbor."
+Constrained conditional model,
+Constraint logic programming," is a form of constraint programming, in which logic programming is extended to include concepts from constraint satisfaction. A constraint logic program is a logic program that contains constraints in the body of clauses. An example of a clause including a constraint is A(X,Y) :- X+Y>0, B(X), C(Y). In this clause, X+Y>0 is a constraint; A(X,Y), B(X), and C(Y) are literals as in regular logic programming. This clause states one condition under which the statement A(X,Y) holds: X+Y is greater than zero and both B(X) and C(Y) are true."
+Constraint programming," is a programming paradigm wherein relations between variables are stated in the form of constraints. Constraints differ from the common primitives of imperative programming languages in that they do not specify a step or sequence of steps to execute, but rather the properties of a solution to be found."
+Constructed language," (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary are, instead of having developed naturally, consciously devised. Constructed languages may also be referred to as artificial, planned or invented languages[110]"
+Control theory, in control systems engineering is a subfield of mathematics that deals with the control of continuously operating dynamical systems  in engineered processes and machines. The objective is to develop a control model for controlling such systems using a control action in an optimum manner without delay or overshoot and ensuring control stability.
+Convolutional neural network," In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural networks, most commonly applied to analyzing visual imagery. CNNs use a variation of multilayer perceptrons designed to require minimal preprocessing.[111] They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on their shared-weights architecture and translation invariance characteristics.[112][113]"
+Crossover," In genetic algorithms and evolutionary computation, crossover, also called recombination, is a genetic operator used to combine the genetic information of two parents to generate new offspring. It is one way to stochastically generate new solutions from an existing population, and analogous to the crossover that happens during sexual reproduction in biology. Solutions can also be generated by cloning an existing solution, which is analogous to asexual reproduction. Newly generated solutions are typically mutated before being added to the population."
+Darkforest,"  is a computer go program developed by Facebook, based on deep learning techniques using a convolutional neural network. Its updated version Darkfores2 combines the techniques of its predecessor with  Monte Carlo tree search.[114][115] The MCTS effectively takes tree search methods commonly seen in computer chess programs and randomizes them.[116] With the update, the system is known as Darkfmcts3.[117]"
+Dartmouth workshop, The Dartmouth Summer Research Project on Artificial Intelligence was the name of a 1956 summer workshop now considered by many[118][119] (though not all[120]) to be the seminal event for artificial intelligence as a field.
+Data fusion," is the process of integrating multiple data sources to produce more consistent, accurate, and useful information than that provided by any individual data source.[121]"
+Data integration," involves combining data residing in different sources and providing users with a unified view of them.[122] This process becomes significant in a variety of situations, which include both commercial (such as when two similar companies need to merge their databases) and scientific (combining research results from different bioinformatics repositories, for example) domains.  Data integration appears with increasing frequency as the volume (that is, big data[123]) and the need to share existing data explodes.[124]  It has become the focus of extensive theoretical work, and numerous open problems remain unsolved."
+Data mining," is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems."
+Data science," is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured,[125][126] similar to data mining.  Data science is a ""concept to unify statistics, data analysis, machine learning and their related methods"" in order to ""understand and analyze actual phenomena"" with data.[127] It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science."
+Data set," (or dataset) is a collection of data. Most commonly a data set  corresponds to the contents of a single database table, or a single statistical data matrix, where every column of the table represents a particular variable, and each row corresponds to a given member of the data set in question. The data set lists values for each of the variables, such as height and weight of an object, for each member of the data set.  Each value is known as a datum. The data set may comprise data for one or more members, corresponding to the number of rows."
+Data warehouse," (DW or DWH), also known as an enterprise data warehouse (EDW), is a system used for reporting and data analysis.[128] DWs are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place[129]"
+Datalog," is a declarative logic programming language that syntactically is a subset of Prolog.  It is often used as a query language for deductive databases.  In recent years, Datalog has found new application in data integration, information extraction, networking, program analysis, security, and cloud computing.[130]"
+Decision boundary," In the case of backpropagation based artificial neural networks or perceptrons, the type of decision boundary that the network can learn is determined by the number of hidden layers the network has. If it has no hidden layers, then it can only learn linear problems. If it has one hidden layer, then it can learn any continuous function on compact subsets of Rn as shown by the Universal approximation theorem, thus it can have an arbitrary decision boundary."
+Decision support system,"  (DSS), is an information system that supports business or organizational decision-making activities. DSSs serve the management, operations and planning levels of an organization (usually mid and higher management) and help people make decisions about problems that may be rapidly changing and not easily specified in advance—i.e. unstructured and semi-structured decision problems. Decision support systems can be either fully computerized or human-powered, or a combination of both."
+Decision theory," (or the theory of choice) is the study of the reasoning underlying an agent's choices.[131] Decision theory can be broken into two branches: normative decision theory, which gives advice on how to make the best decisions given a set of uncertain beliefs and a set of values, and descriptive decision theory which analyzes how existing, possibly irrational agents actually make decisions."
+Decision tree learning," uses a decision tree (as a predictive model) to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining and machine learning."
+Declarative programming, is a programming paradigm—a style of building the structure and elements of computer programs—that expresses the logic of a computation without describing its control flow.[132]
+Deductive classifier," is a type of artificial intelligence inference engine. It takes as input a set of declarations in a frame language about a domain such as medical research or molecular biology. For example, the names of classes, sub-classes, properties, and restrictions on allowable values. Compared to rule-based inference engines, which can only apply triggers like OFF or IF-THEN when a condition is not met, these classifiers seek to mimic human deductive logic.[133]"
+Deep Blue, was a chess-playing computer developed by IBM. It is known for being the first computer chess-playing system to win both a chess game and a chess match against a reigning world champion under regular time controls.
+Deep learning," (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised or unsupervised.[134][135][136]"
+DeepMind," DeepMind Technologies is a British artificial intelligence company founded in September 2010, currently owned by Alphabet Inc. The company is based in London, with research centres in Canada,[137] France,[138] and the United States.   Acquired by Google in 2014, the company has created a neural network that learns how to play video games in a fashion similar to that of humans,[139] as well as a Neural Turing machine,[140] or a neural network that may be able to access an external memory like a conventional Turing machine, resulting in a computer that mimics the short-term memory of the human brain.[141][142]  The company made headlines in 2016 after its AlphaGo program beat a human professional Go player Lee Sedol, the world champion, in a five-game match, which was the subject of a documentary film.[143]  A more general program, AlphaZero, beat the most powerful programs playing go, chess and shogi (Japanese chess) after a few days of play against itself using reinforcement learning.[144]"
+Default logic, is a non-monotonic logic proposed by Raymond Reiter to formalize reasoning with default assumptions.
+Description logic," Description logics (DL) are a family of formal knowledge representation languages. Many DLs are more expressive than propositional logic but less expressive than first-order logic. In contrast to the latter, the core reasoning problems for DLs are (usually) decidable, and efficient decision procedures have been designed and implemented for these problems. There are general, spatial, temporal, spatiotemporal, and fuzzy descriptions logics, and each description logic features a different balance between DL expressivity and reasoning complexity by supporting different sets of mathematical constructors.[145]"
+Developmental robotics," (DevRob), sometimes called epigenetic robotics, is a scientific field which aims at studying the developmental mechanisms, architectures and constraints that allow lifelong and open-ended learning of new skills and new knowledge in embodied machines."
+Diagnosis," is concerned with the development of algorithms and techniques that are able to determine whether the behaviour of a system is correct.  If the system is not functioning correctly, the algorithm should be able to determine, as accurately as possible, which part of the system is failing, and which kind of fault it is facing.  The computation is based on observations, which provide information on the current behaviour."
+Dialogue system," or conversational agent (CA), is a computer system intended to converse with a human with a coherent structure. Dialogue systems have employed text, speech, graphics, haptics, gestures, and other modes for communication on both the input and output channel."
+Dimensionality reduction," or dimension reduction, is the process of reducing the number of random variables under consideration[146] by obtaining a set of principal variables. It can be divided into feature selection and feature extraction.[147]"
+Discrete system," is a system with a countable number of states. Discrete systems may be contrasted with continuous systems, which may also be called analog systems. A final discrete system is often modeled with a directed graph and is analyzed for correctness and complexity according to computational theory. Because discrete systems have a countable number of states, they may be described in precise mathematical models. A computer is a finite state machine that may be viewed as a discrete system. Because computers are often used to model not only other discrete systems but continuous systems as well, methods have been developed to represent real-world continuous systems as discrete systems. One such method involves sampling a continuous signal at discrete time intervals."
+Distributed artificial intelligence," (DAI), also called Decentralized Artificial Intelligence,[148] is a subfield of artificial intelligence research dedicated to the development of distributed solutions for problems. DAI is closely related to and a predecessor of the field of Multi-Agent Systems."
+Dynamic epistemic logic," (DEL), is a logical framework dealing with knowledge and information change. Typically, DEL focuses on situations involving multiple agents and studies how their knowledge changes when events occur."
+Eager learning," is a learning method in which the system tries to construct a general, input-independent target function during training of the system, as opposed to lazy learning, where generalization beyond the training data is delayed until a query is made to the system.[149]"
+Ebert test,"  gauges whether a computer-based synthesized voice[150][151] can tell a joke with sufficient skill to cause people to laugh.[152] It was proposed by film critic Roger Ebert at the 2011 TED conference as a challenge to software developers to have a computerized voice master the inflections, delivery, timing, and intonations of a speaking human.[150] The test is similar to the Turing test proposed by Alan Turing in 1950 as a way to gauge a computer's ability to exhibit intelligent behavior by generating performance indistinguishable from a human being.[153]"
+Echo state network," The echo state network (ESN),[154][155] is a recurrent neural network with a sparsely connected hidden layer (with typically 1% connectivity). The connectivity and weights of hidden neurons are fixed and randomly assigned. The weights of output neurons can be learned so that the network can (re)produce specific temporal patterns. The main interest of this network is that although its behaviour is non-linear, the only weights that are modified during training are for the synapses that connect the hidden neurons to output neurons. Thus, the error function is quadratic with respect to the parameter vector and can be differentiated easily to a linear system."
+Embodied agent,
+Embodied cognitive science," is an interdisciplinary field of research, the aim of which is to explain the mechanisms underlying intelligent behavior.   It comprises three main methodologies: 1) the modeling of psychological and biological systems in a holistic manner that considers the mind and body as a single entity, 2) the formation of a common set of general principles of intelligent behavior, and 3) the experimental use of robotic agents in controlled environments."
+Error-driven learning, is a sub-area of machine learning concerned with how an agent ought to take actions in an environment so as to minimize some error feedback. It is a type of reinforcement learning.
+Ensemble averaging," In machine learning, particularly in the creation of artificial neural networks, ensemble averaging is the process of creating multiple models and combining them to produce a desired output, as opposed to creating just one model."
+Ethics of artificial intelligence,
+Evolutionary algorithm,"  (EA), is a subset of evolutionary computation,[156] a generic population-based metaheuristic optimization algorithm. An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection. Candidate solutions to the optimization problem play the role of individuals in a population, and the fitness function determines the quality of the solutions (see also loss function). Evolution of the population then takes place after the repeated application of the above operators."
+Evolutionary computation," is a family of algorithms for global optimization inspired by biological evolution, and the subfield of artificial intelligence and soft computing studying these algorithms. In technical terms, they are a family of population-based trial and error problem solvers with a metaheuristic or stochastic optimization character."
+Evolving classification function," (ECF), evolving classifier functions or evolving classifiers are used for classifying and clustering in the field of machine learning and artificial intelligence, typically employed for data stream mining tasks in dynamic and changing environments."
+Existential risk,  is the hypothesis that substantial progress in artificial general intelligence (AGI) could someday result in human extinction or some other unrecoverable global catastrophe.[157][158][159]
+Expert system," is a computer system that emulates the decision-making ability of a human expert.[160] Expert systems are designed to solve complex problems by reasoning through bodies of knowledge, represented mainly as if–then rules rather than through conventional procedural code.[161]"
+Fast-and-frugal trees,"  is a type of classification tree. Fast-and-frugal trees can be used as  decision-making tools which operate as lexicographic classifiers, and, if required, associate an action (decision) to each class or category.[162]"
+Feature extraction," In machine learning, pattern recognition and in image processing, feature extraction  starts from an initial set of  measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequent learning and generalization steps, and in some cases leading to better human interpretations. Feature extraction is a dimensionality reduction process, where an initial set of raw variables is reduced to more manageable groups (features) for processing, while still accurately and completely describing the original data set.[163]"
+Feature learning," In machine learning, feature learning or representation learning[164] is a set of techniques that allows a system to automatically discover the representations needed for feature detection or classification from raw data. This replaces manual feature engineering and allows a machine to both learn the features  and use them to perform  a specific task."
+Feature selection," In machine learning and statistics, feature selection, also known as variable selection, attribute selection or variable subset selection, is the process of selecting a subset of relevant features (variables, predictors) for use in model construction."
+First-order logic,"  also known as first-order predicate calculus and predicate logic—is a collection of formal systems used in mathematics, philosophy, linguistics, and computer science. First-order logic uses quantified variables over non-logical objects and allows the use of sentences that contain variables, so that rather than propositions such as Socrates is a man one can have expressions in the form ""there exists X such that X is Socrates and X is a man"" and there exists is a quantifier while X is a variable.[165] This distinguishes it from propositional logic, which does not use quantifiers or relations.[166]"
+Fluent," is a condition that can change over time. In logical approaches to reasoning about actions, fluents can be represented in first-order logic by predicates having an argument that depends on time."
+Formal language,
+Forward chaining,"   (or forward reasoning) is one of the two main methods of reasoning when using an inference engine and can be described logically as repeated application of modus ponens. Forward chaining is a popular implementation strategy for expert systems, business and production rule systems. The opposite of forward chaining is backward chaining.  Forward chaining starts with the available data and uses inference rules to extract more data (from an end user, for example) until a goal is reached. An inference engine using forward chaining searches the inference rules until it finds one where the antecedent (If clause) is known to be true. When such a rule is found, the engine can conclude, or infer, the consequent (Then clause), resulting in the addition of new information to its data.[167]"
+Frame," is an artificial intelligence data structure used to divide knowledge into substructures by representing ""stereotyped situations."" Frames are the primary data structure used in artificial intelligence frame language."
+Frame language,"is a technology used for knowledge representation in artificial intelligence. Frames are stored as ontologies of sets and subsets of the frame concepts. They are similar to class hierarchies in object-oriented languages although their fundamental design goals are different. Frames are focused on explicit and intuitive representation of knowledge whereas objects focus on encapsulation and information hiding. Frames originated in AI research and objects primarily in software engineering. However, in practice the techniques and capabilities of frame and object-oriented languages overlap significantly."
+Frame problem, is the problem of finding adequate collections of axioms for a viable description of a robot environment.[168]
+Friendly artificial intelligence," (also friendly AI or FAI) is a hypothetical artificial general intelligence (AGI) that would have a positive effect on humanity. It is a part of the ethics of artificial intelligence and is closely related to machine ethics. While machine ethics is concerned with how an artificially intelligent agent should behave, friendly artificial intelligence research is focused on how to practically bring about this behaviour and ensuring it is adequately constrained."
+Futures studies," is the study of postulating possible, probable, and preferable futures and the worldviews and myths that underlie them.[169]"
+Fuzzy control system," is a control system based on fuzzy logic—a mathematical system that analyzes analog input values in terms of  logical variables that take on continuous values between 0 and 1, in contrast to classical or digital logic, which operates on discrete values of either 1 or 0 (true or false, respectively).[170][171]"
+Fuzzy logic," is a simple form for the many-valued logic, in which the truth values of variables may have any degree of ""Truthfulness"" that can be represented by any real number in the range between 0 (as in Completely False) and 1 (as in Completely True) inclusive. Consequently, It is employed to handle the concept of partial truth, where the truth value may range between completely true and completely false. In contrast to Boolean logic, where the truth values of variables may have the integer values 0 or 1 only."
+Fuzzy rule, Fuzzy rules are used within fuzzy logic systems to infer an output based on input variables.
+Fuzzy set,
+Game theory, is the study of mathematical models of strategic interaction between rational decision-makers.[172]
+Generative adversarial network," (GAN), is a class of machine learning systems. Two neural networks contest with each other in a zero-sum game framework."
+Genetic algorithm," (GA), is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover and selection.[173]"
+Genetic operator," is an operator used in genetic algorithms to guide the algorithm towards a solution to a given problem. There are three main types of operators (mutation, crossover and selection), which must work in conjunction with one another in order for the algorithm to be successful."
+Glowworm swarm optimization,  is a swarm intelligence optimization algorithm developed based on the behaviour of glowworms (also known as fireflies or lightning bugs).
+Graph (abstract data type)," In computer science, a graph is an abstract data type that is meant to implement the undirected graph and directed graph concepts from mathematics; specifically, the field of graph theory."
+Graph (discrete mathematics)," In mathematics, and more specifically in graph theory, a graph is a structure amounting to a set of objects in which some pairs of the objects are in some sense ""related"". The objects correspond to mathematical abstractions called vertices (also called nodes or points) and each of the related pairs of vertices is called an edge (also called an arc or line).[174]"
+Graph database," (GDB[175]),  is a database that uses graph structures for semantic queries with nodes, edges and properties to represent and store data. A key concept of the system is the graph (or edge or relationship), which directly relates data items in the store a collection of nodes of data and edges representing the relationships between the nodes. The relationships allow data in the store to be linked together directly, and in many cases retrieved with one operation. Graph databases hold the relationships between data as a priority. Querying relationships within a graph database is fast because they are perpetually stored within the database itself. Relationships can be intuitively visualized using graph databases, making it useful for heavily inter-connected data.[176]"
+Graph theory,"  is the study of graphs, which are mathematical structures used to model pairwise relations between objects."
+Graph traversal,  (also known as graph search) refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
+Heuristic,"   is a technique designed for solving a problem more quickly when classic methods are too slow, or for finding an approximate solution when classic methods fail to find any exact solution.  This is achieved by trading optimality, completeness, accuracy, or precision for speed.  In a way, it can be considered a shortcut.  A heuristic function, also called simply a heuristic, is a function that ranks alternatives in search algorithms at each branching step based on available information to decide which branch to follow. For example, it may approximate the exact solution.[177]"
+Hidden layer," an internal layer of neurons in an artificial neural network, not dedicated to input or output"
+Hidden unit, an neuron in a hidden layer in an artificial neural network
+Hyper-heuristic," is a heuristic search method that seeks to automate, often by the incorporation of machine learning techniques, the process of selecting, combining, generating or adapting several simpler heuristics (or components of such heuristics) to efficiently solve computational search problems. One of the motivations for studying hyper-heuristics is to build systems which can handle classes of problems rather than solving just one problem.[178][179][180]"
+IEEE Computational Intelligence Society," is a professional society of the Institute of Electrical and Electronics Engineers (IEEE) focussing on ""the theory, design, application, and development of biologically and linguistically motivated computational paradigms emphasizing neural networks, connectionist systems, genetic algorithms, evolutionary programming, fuzzy systems, and hybrid intelligent systems in which these paradigms are contained"".[181]"
+Incremental learning," is a method of machine learning, in which input data is continuously used to extend the existing model's knowledge i.e. to further train the model. It represents a dynamic technique of supervised learning and unsupervised learning that can be applied when training data becomes available gradually over time or its size is out of system memory limits. Algorithms that can facilitate incremental learning are known as incremental machine learning algorithms."
+Inference engine,  is a component of the system that applies logical rules to the knowledge base to deduce new information.
+Information integration," (II), is the merging of information from heterogeneous sources with differing conceptual, contextual and typographical representations. It is used in data mining and consolidation of data from unstructured or semi-structured resources. Typically, information integration refers to textual representations of knowledge but is sometimes applied to rich-media content. Information fusion, which is a related term, involves the combination of information into a new set of information towards reducing redundancy and uncertainty.[121]"
+Information Processing Language," (IPL), is a programming language that includes features intended to help with programs that perform simple problem solving actions such as lists, dynamic memory allocation, data types, recursion, functions as arguments, generators, and cooperative multitasking.  IPL invented the concept of list processing, albeit in an assembly-language style."
+Intelligence amplification," (IA), (also referred to as cognitive augmentation, machine augmented intelligence and enhanced intelligence), refers to the effective use of information technology in augmenting human intelligence."
+Intelligence explosion," is a possible outcome of humanity building artificial general intelligence (AGI). AGI would be capable of recursive self-improvement leading to rapid emergence of ASI (artificial superintelligence), the limits of which are unknown, at the time of the technological singularity."
+Intelligent agent," (IA), is an autonomous entity which acts, directing its activity towards achieving goals (i.e. it is an agent), upon an environment using observation through sensors and consequent actuators (i.e. it is intelligent). Intelligent agents may also learn or use knowledge to achieve their goals. They may be very simple or very complex."
+Intelligent control,"  is a class of control techniques that use various artificial intelligence computing approaches like neural networks, Bayesian probability, fuzzy logic, machine learning, reinforcement learning, evolutionary computation and genetic algorithms.[182]"
+Intelligent personal assistant," A virtual assistant or intelligent personal assistant is a software agent that can perform tasks or services for an individual based on verbal commands. Sometimes the term ""chatbot"" is used to refer to virtual assistants generally or specifically accessed by online chat (or in some cases online chat programs that are exclusively for entertainment purposes).  Some virtual assistants are able to interpret human speech and respond via synthesized voices. Users can ask their assistants questions, control home automation devices and media playback via voice, and manage other basic tasks such as email, to-do lists, and calendars with verbal commands. [183]"
+Interpretation (logic)," is an assignment of meaning to the symbols of a formal language. Many formal languages used in mathematics, logic, and theoretical computer science are defined in solely syntactic terms, and as such do not have any meaning until they are given some interpretation. The general study of interpretations of formal languages is called formal semantics."
+Issue tree," Also called logic tree, is a graphical breakdown of a question that dissects it into its different components vertically and that progresses into details as it reads to the right.[184]:47  Issue trees are useful in problem solving to identify the root causes of a problem as well as to identify its potential solutions. They also provide a reference point to see how each piece fits into the whole picture of a problem.[185]"
+Junction tree algorithm," (also known as 'Clique Tree')  is a method used in machine learning to extract marginalization in general graphs.  In essence, it entails performing belief propagation on a modified graph called a junction tree. The graph is called a tree because it branches into different sections of data; nodes of variables are the branches.[186]"
+Kernel method," In machine learning, kernel methods are a class of algorithms for pattern analysis, whose best known member is the support vector machine (SVM). The general task of pattern analysis is to find and study general types of relations (for example clusters, rankings, principal components, correlations, classifications) in datasets. In its simplest form, the kernel trick means transforming data into another dimension that has a clear dividing margin between classes of data.[187]"
+KL-ONE,
+Knowledge acquisition,
+Knowledge-based systems,
+Knowledge engineering,
+Knowledge extraction,
+Knowledge Interchange Format,
+Knowledge representation and reasoning,
+Linked data,
+Lisp (programming language),
+Logic programming,
+Long short-term memory,
+Machine vision,
+Markov chain,
+Markov decision process,
+Mathematical optimization,
+Machine learning,
+Machine listening,
+Machine perception,
+Mechanism design,
+Mechatronics,
+Metabolic network modelling,
+Metaheuristic,
+Model checking,
+Modus ponens,
+Modus tollens,
+Monte Carlo tree search,
+Multi-agent system,
+Multi-swarm optimization,
+Mutation,
+Mycin,
+Naive Bayes classifier,
+Naive semantics,
+Name binding,
+Named-entity recognition,
+Named graph,
+Natural language generation,
+Natural language processing,
+Natural language programming,
+Network motif,
+Neural machine translation,
+Neural Turing machine,
+Neuro-fuzzy,
+Neurocybernetics,
+Neuromorphic engineering,
+Node,
+Nondeterministic algorithm,
+Nouvelle AI,
+NP,
+NP-completeness,
+NP-hardness,
+Occam's razor,
+Offline learning,
+Online learning,
+Ontology engineering,
+Ontology learning,
+OpenAI,
+OpenCog,
+Open Mind Common Sense,
+Open-source software,
+Partial order reduction,
+Partially observable Markov decision process,
+Particle swarm optimization,
+Pathfinding,
+Pattern recognition,
+Planner,
+Predicate logic,
+Predictive analytics,
+Principal component analysis,
+Principle of rationality,
+Probabilistic programming language,
+Production Rule Representation,
+Production system,
+Programming language,
+Prolog,
+Propositional calculus,
+Python,
+Qualification problem,
+Quantifier,
+Quantum computing,
+Query language,
+R programming language,
+Radial basis function network,
+Random forest,
+Reasoning system,
+Recurrent neural network,
+Region connection calculus,
+Reinforcement learning,
+Reservoir computing,
+Resource Description Framework,
+Restricted Boltzmann machine,
+Rete algorithm,
+Robotics,
+Rule-based system,
+Satisfiability,
+Search algorithm,
+Selection,
+Self-management,
+Semantic network,
+Semantic reasoner,
+Semantic query,
+Semantics,
+Sensor fusion,
+Separation logic,
+Similarity learning,
+Simulated annealing,
+Situated approach,
+Situation calculus,
+SLD resolution,
+Soft computing,
+Software,
+Software engineering,
+Spatial-temporal reasoning,
+SPARQL,
+Speech recognition,
+Spiking neural network,
+State,
+Statistical classification,
+Statistical relational learning,
+Stochastic optimization,
+STRIPS,
+Subject-matter expert,
+Superintelligence,
+Supervised learning,
+Swarm intelligence,
+Symbolic artificial intelligence,
+Synthetic intelligence,
+Systems neuroscience,
+Technological singularity,
+Temporal difference learning,
+Tensor network theory,
+TensorFlow,
+Theoretical computer science,
+Theory of computation,
+Thompson sampling,
+Time complexity,
+Transhumanism,
+Transition system,
+Tree traversal,
+True quantified Boolean formula,
+Turing test,
+Type system,
+Unsupervised learning,
+Vision processing unit,
+Watson,
+Weak AI,
+World Wide Web Consortium,

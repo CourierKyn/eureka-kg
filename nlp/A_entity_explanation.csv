@@ -1,42 +1,42 @@
-entity	explanation
-Note	not all letters of the alphabet are listed if they do not contain relevant enough terms.
-Algorithm	a formula given to a computer in order for it to complete a task (i.e. a set of rules for a computer)
-Artificial intelligence	a subset of computer science that deals with computer systems performing tasks with similar, equal, or superior intelligence to that of a human (e.g. decision-making, object classification and detection, speech recognition and translation)
-Artificial general intelligence (AGI)	also known as strong AI, AGI is a type of artificial intelligence that is considered human-like, and still in its preliminary stages (more of a hypothetical existence in present day)
-Artificial narrow intelligence (ANI)	also known as weak AI, ANI is a type of artificial intelligence that can only focus on one task or problem at a given time (e.g. playing a game against a human competitor). This is the current existing form of AI.
-Artificial neural network (ANN)	a network modeled after the human brain by creating an artificial neural system via a pattern-recognizing computer algorithm that learns from, interprets, and classifies sensory data
-Backpropagation	shorthand for “backward propagation of errors,” is a method of training neural networks where the system’s initial output is compared to the desired output, then adjusted until the difference (between outputs) becomes minimal
-Bayesian networks	also known as Bayes network, Bayes model, belief network, and decision network, is a graph-based model representing a set of variables and their dependencies
-Big data	large amounts of structured and unstructured data that is too complex to be handled by standard data-processing software
-Chatbots	a chat robot that can converse with a human user through text or voice commands. Utilized by e-commerce, education, health, and business industries for ease of communication and to answer user questions.
-Classification	algorithm technique that allows machines to assign categories to data points
-Clustering	algorithm technique that allows machines to group similar data into larger data categories
-Cognitive computing	computerized model that mimics human thought processes by data mining, NLP, and pattern recognition
-Computer vision	when a machine processes visual input from image files (JPEGs) or camera feeds
-Convolutional neural network (CNN)	a type of neural network specifically created for analyzing, classifying, and clustering visual imagery by using multilayer perceptrons
-Data mining	the process of sorting through large sets of data in order to identify recurring patterns while establishing problem-solving relationships
-Deep learning	a machine learning technique that teaches computers how to learn by rote (i.e. machines mimic learning as a human mind would, by using classification techniques)
-Generative adversarial networks (GAN)	a type of neural network that can generate seemingly authentic photographs on a superficial scale to human eyes. GAN-generated images take elements of photographic data and shape them into realistic-looking images of people, animals, and places.
-Genetic algorithm	an algorithm based on principles of genetics that is used to efficiently and quickly find solutions to difficult problems
-Heuristic	a computer science technique designed for quick, optimal, solution-based problem solving
-Image recognition	the process of identifying or detecting an object or feature of an object in an image or video
-Limited memory	systems with short-term memory limited to a given timeframe
-Machine learning (ML)	focuses on developing programs that access and use data on their own, leading machines to learn for themselves and improve from learned experiences
-Machine translation	an application of NLP used for language translation (human-to-human) in text- and speech-based conversations
-Natural language processing (NLP)	helps computers process, interpret, and analyze human language and its characteristics by using natural language data
-Neural networks	see artificial neural networks
-Optical Character Recognition (OCR)	conversion of images of text (typed, handwritten, or printed) either electronically or mechanically, into machine-encoded text
-Pattern recognition	automated recognition of patterns found in data
-Reactive machines	can analyze, perceive, and make predictions about experiences, but do not store data; they react to situations and act based on the given moment
-Recurrent neural network (RNN)	a type of neural network that makes sense of and creates outputs based on sequential information and pattern recognition
-Reinforcement learning	a machine learning method where the reinforcement algorithm learns by interacting with its environment, and is then penalized or rewarded based off of decisions it makes
-Robotics	focused on the design and manufacturing of robots that exhibit and/or replicate human intelligence and actions
-Robotic process automation (RPA)	uses software with AI and ML capabilities to perform repetitive tasks once completed by humans
-Strong AI	see artificial general intelligence (AGI)
-Structured data	clearly defined data with easily searchable patterns
-Supervised learning	a type of machine learning where output datasets teach machines to generate desired outcomes or algorithms (akin to a teacher-student relationship)
-Transfer learning	a system that uses previously-learned data and applies it to a new set of tasks
-Turing Test	a test created by computer scientist Alan Turing (1950) to see if machines could exhibit intelligence equal to or indistinguishable from that of a human
-Unstructured data	data without easily searchable patterns (e.g. audio, video, social media content)
-Unsupervised learning	a type of machine learning where an algorithm is trained with information that is neither classified nor labeled, thus allowing the algorithm to act without guidance (or supervision)
-Weak AI	see artificial narrow intelligence (ANI)
+entity,explanation
+Note,not all letters of the alphabet are listed if they do not contain relevant enough terms.
+Algorithm,a formula given to a computer in order for it to complete a task (i.e. a set of rules for a computer)
+Artificial intelligence,"a subset of computer science that deals with computer systems performing tasks with similar, equal, or superior intelligence to that of a human (e.g. decision-making, object classification and detection, speech recognition and translation)"
+Artificial general intelligence (AGI),"also known as strong AI, AGI is a type of artificial intelligence that is considered human-like, and still in its preliminary stages (more of a hypothetical existence in present day)"
+Artificial narrow intelligence (ANI),"also known as weak AI, ANI is a type of artificial intelligence that can only focus on one task or problem at a given time (e.g. playing a game against a human competitor). This is the current existing form of AI."
+Artificial neural network (ANN),"a network modeled after the human brain by creating an artificial neural system via a pattern-recognizing computer algorithm that learns from, interprets, and classifies sensory data"
+Backpropagation,"shorthand for “backward propagation of errors,” is a method of training neural networks where the system’s initial output is compared to the desired output, then adjusted until the difference (between outputs) becomes minimal"
+Bayesian networks,"also known as Bayes network, Bayes model, belief network, and decision network, is a graph-based model representing a set of variables and their dependencies"
+Big data,large amounts of structured and unstructured data that is too complex to be handled by standard data-processing software
+Chatbots,"a chat robot that can converse with a human user through text or voice commands. Utilized by e-commerce, education, health, and business industries for ease of communication and to answer user questions."
+Classification,algorithm technique that allows machines to assign categories to data points
+Clustering,algorithm technique that allows machines to group similar data into larger data categories
+Cognitive computing,"computerized model that mimics human thought processes by data mining, NLP, and pattern recognition"
+Computer vision,when a machine processes visual input from image files (JPEGs) or camera feeds
+Convolutional neural network (CNN),"a type of neural network specifically created for analyzing, classifying, and clustering visual imagery by using multilayer perceptrons"
+Data mining,the process of sorting through large sets of data in order to identify recurring patterns while establishing problem-solving relationships
+Deep learning,"a machine learning technique that teaches computers how to learn by rote (i.e. machines mimic learning as a human mind would, by using classification techniques)"
+Generative adversarial networks (GAN),"a type of neural network that can generate seemingly authentic photographs on a superficial scale to human eyes. GAN-generated images take elements of photographic data and shape them into realistic-looking images of people, animals, and places."
+Genetic algorithm,an algorithm based on principles of genetics that is used to efficiently and quickly find solutions to difficult problems
+Heuristic,"a computer science technique designed for quick, optimal, solution-based problem solving"
+Image recognition,the process of identifying or detecting an object or feature of an object in an image or video
+Limited memory,systems with short-term memory limited to a given timeframe
+Machine learning (ML),"focuses on developing programs that access and use data on their own, leading machines to learn for themselves and improve from learned experiences"
+Machine translation,an application of NLP used for language translation (human-to-human) in text- and speech-based conversations
+Natural language processing (NLP),"helps computers process, interpret, and analyze human language and its characteristics by using natural language data"
+Neural networks,see artificial neural networks
+Optical Character Recognition (OCR),"conversion of images of text (typed, handwritten, or printed) either electronically or mechanically, into machine-encoded text"
+Pattern recognition,automated recognition of patterns found in data
+Reactive machines,"can analyze, perceive, and make predictions about experiences, but do not store data; they react to situations and act based on the given moment"
+Recurrent neural network (RNN),a type of neural network that makes sense of and creates outputs based on sequential information and pattern recognition
+Reinforcement learning,"a machine learning method where the reinforcement algorithm learns by interacting with its environment, and is then penalized or rewarded based off of decisions it makes"
+Robotics,focused on the design and manufacturing of robots that exhibit and/or replicate human intelligence and actions
+Robotic process automation (RPA),uses software with AI and ML capabilities to perform repetitive tasks once completed by humans
+Strong AI,see artificial general intelligence (AGI)
+Structured data,clearly defined data with easily searchable patterns
+Supervised learning,a type of machine learning where output datasets teach machines to generate desired outcomes or algorithms (akin to a teacher-student relationship)
+Transfer learning,a system that uses previously-learned data and applies it to a new set of tasks
+Turing Test,a test created by computer scientist Alan Turing (1950) to see if machines could exhibit intelligence equal to or indistinguishable from that of a human
+Unstructured data,"data without easily searchable patterns (e.g. audio, video, social media content)"
+Unsupervised learning,"a type of machine learning where an algorithm is trained with information that is neither classified nor labeled, thus allowing the algorithm to act without guidance (or supervision)"
+Weak AI,see artificial narrow intelligence (ANI)
