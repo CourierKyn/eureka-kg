@@ -1,9 +1,12 @@
 """This is a embedding processing."""
+
 import torch
 from torch import nn
+from jieba import analyse
+
+import numpy as np
 import pandas as pd
 
-_ROW_SIZE = 3000
 _FEATURE_SIZE = 1
 
 
@@ -15,23 +18,30 @@ class _MixedInputModel(nn.Module):
 
     def forward(self, x):
         emb = self.embedding(x)
-        emb = emb.view(1, -1)  # change to one row
+        emb = emb.view(1, -1)
         return emb
 
 
-def _text_processing(x, word_to_ix):
-    x = x.replace(word_to_ix).astype('float')
-    return x
+def _pretreatment(x):
+    tf_idf = analyse.extract_tags
+    series = x.fillna('unknown').apply(tf_idf)
+    unique = set(series.sum())
+    rep = dict(zip(unique, range(len(unique))))
+    series = series.apply(lambda s: [rep[elem] for elem in s])
+    return series.apply(np.mean)
 
 
-def embedding(x, word_to_ix):
-    x = _text_processing(x, word_to_ix)
-    model = _MixedInputModel(vocab_size=_ROW_SIZE, embedding_dim=_FEATURE_SIZE)
-    x_input = torch.autograd.Variable(torch.LongTensor(list(x)))
+def embedding(x):
+    series = _pretreatment(x)
+    model = _MixedInputModel(vocab_size=len(series), embedding_dim=_FEATURE_SIZE)
+    x_input = torch.autograd.Variable(torch.LongTensor(list(series)))
     embed = model(x_input)
-    return pd.Series(embed[0].detach().numpy())
+    # _FEATURE_SIZE == 2
+    # embed = pd.DataFrame(embed.tolist(), index=range(1001, 4001, 1), columns=['x', 'y'])
+    # datum_idx = torch.autograd.Variable(torch.LongTensor([0]))
+    # datum_vector = model(datum_idx)
+    # distance = _distance(embed, datum_vector)
+    # return pd.Series(distance, name=x.name)
 
-
-# example
-series = pd.Series(['hello', 'world'])
-replace_dict = {'hello': 0, 'world': 1}
+    # _FEATURE_SIZE == 1
+    return pd.Series(embed.tolist()[0], name=x.name)
