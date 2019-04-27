@@ -1,0 +1,60 @@
+Asymmetric Cryptography (Public Key Cryptography)
+Blockchain
+Burning
+Confirmation
+Consensus Algorithm
+Cryptography
+dApp
+Decentralisation
+Design Goals
+Digital Signature
+Disintermediation
+Distributed ledgers
+Elliptic Curve Digital Signature Algorithm (ECDSA)
+Encryption
+Ether
+Ethereum
+Ethereum Test Network
+EVM — Ethereum Virtual Machine
+EVM Byte Code
+Fiat Currency
+Fork
+Fungible
+GAS
+Genesis Block
+Geth console (Go Ethereum)
+Hardfork
+Hashing Functions
+Hashrate
+Immutability
+Initial Coin Offering (ICO)
+Instances
+Keccak-256
+Ledger
+Master Node
+Merkle Tree
+MetaMask
+Mining
+Node
+OPcodes
+Open Source
+Peer-to-peer (P2P)
+Permissioned Blockchains
+Private Key
+Proof of Authority
+Proof of Stake
+Proof of Work
+Pseudonymity
+SHA 256
+Sharding
+Smart Contract
+Solidity
+TestRPC
+The 3 Layer Model
+Token
+Transaction Block
+Truffle
+Turing Complete
+Unspent Transaction Output (UTXO)
+Wallet
+Web3.js
