@@ -1,0 +1,335 @@
+Abductive logic programming
+Abductive reasoning
+Abstract data type
+Abstraction
+Accelerating change
+Action language
+Action model learning
+Action selection
+Activation function
+Adaptive algorithm
+Adaptive neuro fuzzy inference system
+Admissible heuristic
+Affective computing
+Agent architecture
+AI accelerator
+AI-complete
+Algorithm
+Algorithmic efficiency
+Algorithmic probability
+AlphaGo
+Ambient intelligence
+Analysis of algorithms
+Analytics
+Answer set programming
+Anytime algorithm
+Application programming interface
+Approximate string matching
+Approximation error
+Argumentation framework
+Artificial immune system
+Artificial intelligence
+Artificial Intelligence Markup Language
+Artificial neural network
+Association for the Advancement of Artificial Intelligence
+Asymptotic computational complexity
+Attributional calculus
+Augmented reality
+Automata theory
+Automated planning and scheduling
+Automated reasoning
+Autonomic computing
+Autonomous car
+Autonomous robot
+Backpropagation
+Backpropagation through time
+Backward chaining
+Bag-of-words model
+Bag-of-words model in computer vision
+Batch normalization
+Bayesian programming
+Bees algorithm
+Behavior informatics
+Behavior tree
+Belief-desire-intention software model
+Bias–variance tradeoff
+Big data
+Big O notation
+Binary tree
+Bio-inspired computing
+Blackboard system
+Boltzmann machine
+Boolean satisfiability problem
+Brain technology
+Branching factor
+Brute-force search
+Capsule neural network
+Case-based reasoning
+Chatbot
+Cloud robotics
+Cluster analysis
+Cobweb
+Cognitive architecture
+Cognitive computing
+Cognitive science
+Combinatorial optimization
+Committee machine
+Commonsense knowledge
+Commonsense reasoning
+Computational chemistry
+Computational complexity theory
+Computational creativity
+Computational cybernetics
+Computational humor
+Computational intelligence
+Computational learning theory
+Computational linguistics
+Computational mathematics
+Computational neuroscience
+Computational number theory
+Computational problem
+Computational statistics
+Computer-automated design
+Computer science
+Computer vision
+Concept drift
+Connectionism
+Consistent heuristic
+Constrained conditional model
+Constraint logic programming
+Constraint programming
+Constructed language
+Control theory
+Convolutional neural network
+Crossover
+Darkforest
+Dartmouth workshop
+Data fusion
+Data integration
+Data mining
+Data science
+Data set
+Data warehouse
+Datalog
+Decision boundary
+Decision support system
+Decision theory
+Decision tree learning
+Declarative programming
+Deductive classifier
+Deep Blue
+Deep learning
+DeepMind
+Default logic
+Description logic
+Developmental robotics
+Diagnosis
+Dialogue system
+Dimensionality reduction
+Discrete system
+Distributed artificial intelligence
+Dynamic epistemic logic
+Eager learning
+Ebert test
+Echo state network
+Embodied agent
+Embodied cognitive science
+Error-driven learning
+Ensemble averaging
+Ethics of artificial intelligence
+Evolutionary algorithm
+Evolutionary computation
+Evolving classification function
+Existential risk
+Expert system
+Fast-and-frugal trees
+Feature extraction
+Feature learning
+Feature selection
+First-order logic
+Fluent
+Formal language
+Forward chaining
+Frame
+Frame language
+Frame problem
+Friendly artificial intelligence
+Futures studies
+Fuzzy control system
+Fuzzy logic
+Fuzzy rule
+Fuzzy set
+Game theory
+Generative adversarial network
+Genetic algorithm
+Genetic operator
+Glowworm swarm optimization
+Graph (abstract data type)
+Graph (discrete mathematics)
+Graph database
+Graph theory
+Graph traversal
+Heuristic
+Hidden layer
+Hidden unit
+Hyper-heuristic
+IEEE Computational Intelligence Society
+Incremental learning
+Inference engine
+Information integration
+Information Processing Language
+Intelligence amplification
+Intelligence explosion
+Intelligent agent
+Intelligent control
+Intelligent personal assistant
+Interpretation (logic)
+Issue tree
+Junction tree algorithm
+Kernel method
+KL-ONE
+Knowledge acquisition
+Knowledge-based systems
+Knowledge engineering
+Knowledge extraction
+Knowledge Interchange Format
+Knowledge representation and reasoning
+Linked data
+Lisp (programming language)
+Logic programming
+Long short-term memory
+Machine vision
+Markov chain
+Markov decision process
+Mathematical optimization
+Machine learning
+Machine listening
+Machine perception
+Mechanism design
+Mechatronics
+Metabolic network modelling
+Metaheuristic
+Model checking
+Modus ponens
+Modus tollens
+Monte Carlo tree search
+Multi-agent system
+Multi-swarm optimization
+Mutation
+Mycin
+Naive Bayes classifier
+Naive semantics
+Name binding
+Named-entity recognition
+Named graph
+Natural language generation
+Natural language processing
+Natural language programming
+Network motif
+Neural machine translation
+Neural Turing machine
+Neuro-fuzzy
+Neurocybernetics
+Neuromorphic engineering
+Node
+Nondeterministic algorithm
+Nouvelle AI
+NP
+NP-completeness
+NP-hardness
+Occam's razor
+Offline learning
+Online learning
+Ontology engineering
+Ontology learning
+OpenAI
+OpenCog
+Open Mind Common Sense
+Open-source software
+Partial order reduction
+Partially observable Markov decision process
+Particle swarm optimization
+Pathfinding
+Pattern recognition
+Planner
+Predicate logic
+Predictive analytics
+Principal component analysis
+Principle of rationality
+Probabilistic programming language
+Production Rule Representation
+Production system
+Programming language
+Prolog
+Propositional calculus
+Python
+Qualification problem
+Quantifier
+Quantum computing
+Query language
+R programming language
+Radial basis function network
+Random forest
+Reasoning system
+Recurrent neural network
+Region connection calculus
+Reinforcement learning
+Reservoir computing
+Resource Description Framework
+Restricted Boltzmann machine
+Rete algorithm
+Robotics
+Rule-based system
+Satisfiability
+Search algorithm
+Selection
+Self-management
+Semantic network
+Semantic reasoner
+Semantic query
+Semantics
+Sensor fusion
+Separation logic
+Similarity learning
+Simulated annealing
+Situated approach
+Situation calculus
+SLD resolution
+Soft computing
+Software
+Software engineering
+Spatial-temporal reasoning
+SPARQL
+Speech recognition
+Spiking neural network
+State
+Statistical classification
+Statistical relational learning
+Stochastic optimization
+STRIPS
+Subject-matter expert
+Superintelligence
+Supervised learning
+Swarm intelligence
+Symbolic artificial intelligence
+Synthetic intelligence
+Systems neuroscience
+Technological singularity
+Temporal difference learning
+Tensor network theory
+TensorFlow
+Theoretical computer science
+Theory of computation
+Thompson sampling
+Time complexity
+Transhumanism
+Transition system
+Tree traversal
+True quantified Boolean formula
+Turing test
+Type system
+Unsupervised learning
+Vision processing unit
+Watson
+Weak AI
+World Wide Web Consortium
