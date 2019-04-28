@@ -1,0 +1,27 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Metromile",
+    "name": "Metromile",
+    "description": "Metromile is a San Francisco-based car insurance startup that offers pay-per-mile insurance and a driving app.",
+    "metadata": {
+        "0": {
+            "1": "Industry",
+            "2": "Founded",
+            "3": "Founders",
+            "4": "Areas served",
+            "5": "Products",
+            "6": "Revenue",
+            "7": "Number of employees",
+            "8": "Website"
+        },
+        "1": {
+            "1": "Car insurance",
+            "2": "2011 in Redwood City",
+            "3": "David Friedberg",
+            "4": "California, Illinois, New Jersey, Oregon, Pennsylvania, Virginia, Washington",
+            "5": "Pay-per-mile insurance, driving app",
+            "6": "US$ 100 million",
+            "7": "200",
+            "8": "www.metromile.com"
+        }
+    }
+}

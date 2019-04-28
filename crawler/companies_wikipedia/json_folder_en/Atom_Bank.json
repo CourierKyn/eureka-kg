@@ -1,0 +1,23 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Atom_Bank",
+    "name": "Atom_Bank",
+    "description": "Atom Bank is a digital financial company and challenger bank. It provides banking services through a smartphone app.  It has no physical outposts. As a smartphone app-based bank, it does not have a traditional online banking outlet, as users must use the application to bank.",
+    "metadata": {
+        "0": {
+            "1": "Type",
+            "2": "Industry",
+            "3": "Founded",
+            "4": "Founder",
+            "5": "Number of employees",
+            "6": "Website"
+        },
+        "1": {
+            "1": "Public limited company",
+            "2": "Personal Finance, Banking",
+            "3": "2014 ; 5\u00a0years ago in Durham, United Kingdom",
+            "4": "Anthony Thomson, Mark Mullen",
+            "5": "250",
+            "6": "https://atombank.co.uk"
+        }
+    }
+}
