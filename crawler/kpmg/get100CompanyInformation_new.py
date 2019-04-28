@@ -2,6 +2,7 @@ import re
 import json
 import minecart
 
+
 def get50_leading_company_name(text):
     patternOfName = re.compile(r'\d\d(.+)')
     try:
@@ -10,6 +11,7 @@ def get50_leading_company_name(text):
         Name =None
     return {'Name': Name}
 
+
 def get50_emerging_company_name(text):
     patternOfName = re.compile(r'\ue801(.+)')
     try:
@@ -17,6 +19,7 @@ def get50_emerging_company_name(text):
     except:
         Name =None
     return {'Name':Name}
+
 
 def get_description_investors(text):
     patternOfDescription = re.compile(r'Company Description([\s\S]+)Notable Investors')
@@ -42,6 +45,7 @@ def get_description_investors(text):
         except:
             Investors = None
     return {'Description':Description,'Investors':Investors}
+
 
 def get_other_information(text):
     patternOfYear = re.compile(r'Year Founded  (.+)Key People')
@@ -83,6 +87,7 @@ def get_other_information(text):
         else:
             Keypeople = None
     return {'Year': Year,'Location': Location,'Website': Website,'Category':Category,'Ownership':Ownership,'Keypeople':Keypeople}
+
 
 if __name__ == '__main__':
     name_box = (0, 688, 288, 835)
