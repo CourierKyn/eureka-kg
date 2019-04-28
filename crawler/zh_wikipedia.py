@@ -44,12 +44,14 @@ def _parse(r):
                     t.append(td_str)
                 metadata.append(t)
 
-        return (s.strip(), pd.DataFrame(metadata).replace(to_replace=r'^\s*$', value=np.nan, regex=True).dropna(axis=0))
+        return s.strip(), pd.DataFrame(metadata).replace(to_replace=r'^\s*$', value=np.nan, regex=True).dropna(axis=0)
 
 
 def get_companies_info(url_list=None):
     if url_list is None:
         raise ValueError('The url list should not be empty.')
+    os.mkdir("./companies_wikipedia/json_folder_zh")
+    os.chdir("./companies_wikipedia/json_folder_zh")
     for url in url_list:
         par = _parse(_get(url))
         data = {
@@ -59,7 +61,6 @@ def get_companies_info(url_list=None):
             'metadata': par[1].to_dict()
         }
         print(data)
-
         with open(url.split('/')[-1] + '.json', 'w') as json_file:
             json.dump(data, json_file, indent=4)
 
