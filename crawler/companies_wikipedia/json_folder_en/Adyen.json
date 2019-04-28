@@ -1,0 +1,31 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Adyen",
+    "name": "Adyen",
+    "description": "Adyen is a global payment company that allows businesses to accept e-commerce, mobile, and point-of-sale payments. Adyen has more than 3,500 customers and is listed on the stock exchange Euronext.",
+    "metadata": {
+        "0": {
+            "2": "Type",
+            "3": "Traded\u00a0as",
+            "4": "Industry",
+            "5": "Founded",
+            "6": "Founder",
+            "7": "Headquarters",
+            "8": "Number of locations",
+            "10": "Services",
+            "11": "Number of employees",
+            "12": "Website"
+        },
+        "1": {
+            "2": "Naamloze vennootschap",
+            "3": "Euronext :\u00a0 ADYEN",
+            "4": "payments technology, e-commerce , point of sale",
+            "5": "2006",
+            "6": "Arnout Schuijff",
+            "7": "Amsterdam , Netherlands",
+            "8": "San Francisco, New York, Boston, S\u00e3o Paulo, London, Manchester, Singapore, Berlin, Paris, Stockholm, Madrid, Shanghai, Sydney, Mexico City",
+            "10": "Payment service provider , gateway, risk management, local acquiring, point of sale",
+            "11": "880",
+            "12": "adyen.com"
+        }
+    }
+}

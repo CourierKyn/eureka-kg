@@ -65,4 +65,4 @@ def get_companies_info(url_list=None):
             json.dump(data, json_file, indent=4)
 
 
-get_companies_info(["https://zh.wikipedia.org/wiki/蚂蚁金服"])
+get_companies_info(["https://zh.wikipedia.org/wiki/蚂蚁金服", "https://zh.wikipedia.org/wiki/众安保险", "https://zh.wikipedia.org/wiki/%E6%BD%AE%E6%B1%90", "https://zh.wikipedia.org/wiki/%E8%85%BE%E8%AE%AF"])
