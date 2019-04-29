@@ -52,7 +52,7 @@ Bees algorithm
 Behavior informatics
 Behavior tree
 Belief-desire-intention software model
-Bias–variance tradeoff
+Bias-variance tradeoff
 Big data
 Big O notation
 Binary tree
@@ -333,3 +333,249 @@ Vision processing unit
 Watson
 Weak AI
 World Wide Web Consortium
+Asymmetric Cryptography (Public Key Cryptography)
+Blockchain
+Burning
+Confirmation
+Consensus Algorithm
+Cryptography
+dApp
+Decentralisation
+Design Goals
+Digital Signature
+Disintermediation
+Distributed ledgers
+Elliptic Curve Digital Signature Algorithm (ECDSA)
+Encryption
+Ether
+Ethereum
+Ethereum Test Network
+EVM- Ethereum Virtual Machine
+EVM Byte Code
+Fiat Currency
+Fork
+Fungible
+GAS
+Genesis Block
+Geth console (Go Ethereum)
+Hardfork
+Hashing Functions
+Hashrate
+Immutability
+Initial Coin Offering (ICO)
+Instances
+Keccak-256
+Ledger
+Master Node
+Merkle Tree
+MetaMask
+Mining
+OPcodes
+Open Source
+Peer-to-peer (P2P)
+Permissioned Blockchains
+Private Key
+Proof of Authority
+Proof of Stake
+Proof of Work
+Pseudonymity
+SHA 256
+Sharding
+Smart Contract
+Solidity
+TestRPC
+The 3 Layer Model
+Token
+Transaction Block
+Truffle
+Turing Complete
+Unspent Transaction Output (UTXO)
+Wallet
+Web3.js
+Advertising-based pricing model
+Amazon Elastic Compute Cloud (EC2)
+Amazon Simple Storage Service (S3)
+Apache Hadoop
+AWS
+Content delivery network (CDN)
+Cloud
+Cloud portability
+Cloud provider
+Cloudsourcing
+Cloud storage
+Cloudware
+Cluster
+Consumer cloud
+Consumption-based pricing model
+Content Management Interoperability Services (CMIS)
+Customer self-service
+Disruptive technology
+Docker
+Elastic computing
+External cloud
+Google App Engine
+Google Apps
+Hardware as a Service (HaaS)
+Hosted application
+Hybrid cloud
+Infrastructure as a Service (IaaS)
+Internal cloud
+Microsoft Azure
+Microsoft Office 365
+Middleware
+Multitenancy
+On-demand service
+OpenStack
+PaaS
+Pay as you go
+Private cloud
+Public cloud
+Software as a Service (SaaS)
+Salesforce
+Service migration
+Service provider
+Service level agreement (SLA)
+Social networking service (SNS)
+Software plus services
+Subscription-based pricing model
+Utility computing
+Vendor lock-in
+Vertical cloud
+Virtual private data center
+Virtual private cloud (VPC)
+CDN
+Cloud broker
+Cloud operating system
+Cloud Oriented Architecture
+Cloudstorming
+HaaS
+IaaS
+IBM Smart Business
+Mashup
+SaaS
+Salesforce.com
+SLA
+VPC
+Windows Live Services
+Automatic Identification and Data Capture (AIDC)
+Avro
+Behavioral Analytics
+Business Intelligence
+Big Data Scientist
+Biometrics
+Cascading
+Call Detail Record (CDR) Analysis
+Cassandra
+Cell Phone Data
+Cloud Computing
+Chukwa
+Columnar Database / Column-Oriented Database
+Comparative Analytic-oriented Database
+Complex Event Processing (CEP)
+Data Analyst
+Data Aggregation
+Dashboard
+Data Scientist
+Data Architecture and Design
+Database administrator (DBA)
+Database Management System (DBMS)
+Data Cleansing
+Document Management
+Data Visualization
+Drill
+Extract, Transform, and Load (ETL)
+Flume
+Grid Computing
+Gamification
+Hadoop User Experience (HUE)
+High-Performance Analytical Application (HANA)
+HAMA
+Hadoop Distributed File System (HDFS)
+HBase
+Hive
+Impala
+Key Value Stores / Key Value Databases
+Load balancing
+Location Analytics
+Log File
+Metadata
+MongoDB
+Multi-Dimensional Database (MDB)
+Multi-Value Database
+Machine-Generated Data
+MapReduce
+Mahout
+Network Analysis
+NewSQL
+NoSQL
+Object Databases
+Object-based Image Analysis
+Online Analytical  Processing (OLAP)
+Online transactional processing (OLTP)
+Open Data Center Alliance (ODCA)
+Operational Data Store (ODS)
+Oozie
+Parallel Data Analysis
+Parallel Method Invocation (PMI)
+Parallel Processing
+Parallel Query
+Pentaho
+Petabyte
+Query
+Query Analysis
+R
+Re-identification
+Real-time Data
+Reference Data
+Recommendation Engine
+Risk Analysis
+Routing Analysis
+Semi-Structured Data
+Server
+Spatial Analysis
+Structured Query Language (SQL)
+Sqoop
+Storm
+Text Analytics
+Thrift
+Unstructured Data
+Value
+Volume
+WebHDFS Apache Hadoop
+Weather Data
+XML Databases
+Yottabyte
+ZooKeeper
+Zettabyte
+Bottom Line
+6LoWPAN
+Advanced Encryption Standard (AES)
+Bluetooth Low Energy (BLE)
+Embedded Software
+Firmware Over-the-Air (FOTA)
+Gateway
+General Packet Radio Service (GPRS)
+Industrial IoT (IIoT)
+Industrial, Scientific, and Medical (ISM) Band
+Link Budget
+Low-Power Wide Area (LPWA)
+Low-Power Wireless Sensor Network
+LoRa Protocol (LoRaWAN)
+LTE-M
+Machine to Machine (M2M)
+Media Access Control (MAC)
+Mote
+NB-IoT
+Near-Field Communication (NFC)
+Quality of Service (QoS)
+Radiofrequency (RF)
+Radio Frequency Identification (RFID)
+RF Geolocation
+Repeater
+Smart Meter
+Software-Defined Network (SDN)
+Structure Attenuation
+Transmission Control Protocol/Internet Protocol (TCP/IP)
+Ultra-Wide Band (UWB)
+ZigBee
+Z-Wave
