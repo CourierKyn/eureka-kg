@@ -443,8 +443,6 @@ Vendor lock-in
 Vertical cloud
 Virtual private data center
 Virtual private cloud (VPC)
-Amazon EC2
-Amazon S3
 CDN
 Cloud broker
 Cloud operating system
@@ -459,7 +457,6 @@ Salesforce.com
 SLA
 VPC
 Windows Live Services
-Artificial Intelligence (AI)
 Automatic Identification and Data Capture (AIDC)
 Avro
 Behavioral Analytics
@@ -553,7 +550,6 @@ Zettabyte
 Bottom Line
 6LoWPAN
 Advanced Encryption Standard (AES)
-Application Programming Interface (API)
 Bluetooth Low Energy (BLE)
 Embedded Software
 Firmware Over-the-Air (FOTA)
