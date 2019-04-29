@@ -1,0 +1,581 @@
+Abductive logic programming
+Abductive reasoning
+Abstract data type
+Abstraction
+Accelerating change
+Action language
+Action model learning
+Action selection
+Activation function
+Adaptive algorithm
+Adaptive neuro fuzzy inference system
+Admissible heuristic
+Affective computing
+Agent architecture
+AI accelerator
+AI-complete
+Algorithm
+Algorithmic efficiency
+Algorithmic probability
+AlphaGo
+Ambient intelligence
+Analysis of algorithms
+Analytics
+Answer set programming
+Anytime algorithm
+Application programming interface
+Approximate string matching
+Approximation error
+Argumentation framework
+Artificial immune system
+Artificial intelligence
+Artificial Intelligence Markup Language
+Artificial neural network
+Association for the Advancement of Artificial Intelligence
+Asymptotic computational complexity
+Attributional calculus
+Augmented reality
+Automata theory
+Automated planning and scheduling
+Automated reasoning
+Autonomic computing
+Autonomous car
+Autonomous robot
+Backpropagation
+Backpropagation through time
+Backward chaining
+Bag-of-words model
+Bag-of-words model in computer vision
+Batch normalization
+Bayesian programming
+Bees algorithm
+Behavior informatics
+Behavior tree
+Belief-desire-intention software model
+Bias-variance tradeoff
+Big data
+Big O notation
+Binary tree
+Bio-inspired computing
+Blackboard system
+Boltzmann machine
+Boolean satisfiability problem
+Brain technology
+Branching factor
+Brute-force search
+Capsule neural network
+Case-based reasoning
+Chatbot
+Cloud robotics
+Cluster analysis
+Cobweb
+Cognitive architecture
+Cognitive computing
+Cognitive science
+Combinatorial optimization
+Committee machine
+Commonsense knowledge
+Commonsense reasoning
+Computational chemistry
+Computational complexity theory
+Computational creativity
+Computational cybernetics
+Computational humor
+Computational intelligence
+Computational learning theory
+Computational linguistics
+Computational mathematics
+Computational neuroscience
+Computational number theory
+Computational problem
+Computational statistics
+Computer-automated design
+Computer science
+Computer vision
+Concept drift
+Connectionism
+Consistent heuristic
+Constrained conditional model
+Constraint logic programming
+Constraint programming
+Constructed language
+Control theory
+Convolutional neural network
+Crossover
+Darkforest
+Dartmouth workshop
+Data fusion
+Data integration
+Data mining
+Data science
+Data set
+Data warehouse
+Datalog
+Decision boundary
+Decision support system
+Decision theory
+Decision tree learning
+Declarative programming
+Deductive classifier
+Deep Blue
+Deep learning
+DeepMind
+Default logic
+Description logic
+Developmental robotics
+Diagnosis
+Dialogue system
+Dimensionality reduction
+Discrete system
+Distributed artificial intelligence
+Dynamic epistemic logic
+Eager learning
+Ebert test
+Echo state network
+Embodied agent
+Embodied cognitive science
+Error-driven learning
+Ensemble averaging
+Ethics of artificial intelligence
+Evolutionary algorithm
+Evolutionary computation
+Evolving classification function
+Existential risk
+Expert system
+Fast-and-frugal trees
+Feature extraction
+Feature learning
+Feature selection
+First-order logic
+Fluent
+Formal language
+Forward chaining
+Frame
+Frame language
+Frame problem
+Friendly artificial intelligence
+Futures studies
+Fuzzy control system
+Fuzzy logic
+Fuzzy rule
+Fuzzy set
+Game theory
+Generative adversarial network
+Genetic algorithm
+Genetic operator
+Glowworm swarm optimization
+Graph (abstract data type)
+Graph (discrete mathematics)
+Graph database
+Graph theory
+Graph traversal
+Heuristic
+Hidden layer
+Hidden unit
+Hyper-heuristic
+IEEE Computational Intelligence Society
+Incremental learning
+Inference engine
+Information integration
+Information Processing Language
+Intelligence amplification
+Intelligence explosion
+Intelligent agent
+Intelligent control
+Intelligent personal assistant
+Interpretation (logic)
+Issue tree
+Junction tree algorithm
+Kernel method
+KL-ONE
+Knowledge acquisition
+Knowledge-based systems
+Knowledge engineering
+Knowledge extraction
+Knowledge Interchange Format
+Knowledge representation and reasoning
+Linked data
+Lisp (programming language)
+Logic programming
+Long short-term memory
+Machine vision
+Markov chain
+Markov decision process
+Mathematical optimization
+Machine learning
+Machine listening
+Machine perception
+Mechanism design
+Mechatronics
+Metabolic network modelling
+Metaheuristic
+Model checking
+Modus ponens
+Modus tollens
+Monte Carlo tree search
+Multi-agent system
+Multi-swarm optimization
+Mutation
+Mycin
+Naive Bayes classifier
+Naive semantics
+Name binding
+Named-entity recognition
+Named graph
+Natural language generation
+Natural language processing
+Natural language programming
+Network motif
+Neural machine translation
+Neural Turing machine
+Neuro-fuzzy
+Neurocybernetics
+Neuromorphic engineering
+Node
+Nondeterministic algorithm
+Nouvelle AI
+NP
+NP-completeness
+NP-hardness
+Occam's razor
+Offline learning
+Online learning
+Ontology engineering
+Ontology learning
+OpenAI
+OpenCog
+Open Mind Common Sense
+Open-source software
+Partial order reduction
+Partially observable Markov decision process
+Particle swarm optimization
+Pathfinding
+Pattern recognition
+Planner
+Predicate logic
+Predictive analytics
+Principal component analysis
+Principle of rationality
+Probabilistic programming language
+Production Rule Representation
+Production system
+Programming language
+Prolog
+Propositional calculus
+Python
+Qualification problem
+Quantifier
+Quantum computing
+Query language
+R programming language
+Radial basis function network
+Random forest
+Reasoning system
+Recurrent neural network
+Region connection calculus
+Reinforcement learning
+Reservoir computing
+Resource Description Framework
+Restricted Boltzmann machine
+Rete algorithm
+Robotics
+Rule-based system
+Satisfiability
+Search algorithm
+Selection
+Self-management
+Semantic network
+Semantic reasoner
+Semantic query
+Semantics
+Sensor fusion
+Separation logic
+Similarity learning
+Simulated annealing
+Situated approach
+Situation calculus
+SLD resolution
+Soft computing
+Software
+Software engineering
+Spatial-temporal reasoning
+SPARQL
+Speech recognition
+Spiking neural network
+State
+Statistical classification
+Statistical relational learning
+Stochastic optimization
+STRIPS
+Subject-matter expert
+Superintelligence
+Supervised learning
+Swarm intelligence
+Symbolic artificial intelligence
+Synthetic intelligence
+Systems neuroscience
+Technological singularity
+Temporal difference learning
+Tensor network theory
+TensorFlow
+Theoretical computer science
+Theory of computation
+Thompson sampling
+Time complexity
+Transhumanism
+Transition system
+Tree traversal
+True quantified Boolean formula
+Turing test
+Type system
+Unsupervised learning
+Vision processing unit
+Watson
+Weak AI
+World Wide Web Consortium
+Asymmetric Cryptography (Public Key Cryptography)
+Blockchain
+Burning
+Confirmation
+Consensus Algorithm
+Cryptography
+dApp
+Decentralisation
+Design Goals
+Digital Signature
+Disintermediation
+Distributed ledgers
+Elliptic Curve Digital Signature Algorithm (ECDSA)
+Encryption
+Ether
+Ethereum
+Ethereum Test Network
+EVM- Ethereum Virtual Machine
+EVM Byte Code
+Fiat Currency
+Fork
+Fungible
+GAS
+Genesis Block
+Geth console (Go Ethereum)
+Hardfork
+Hashing Functions
+Hashrate
+Immutability
+Initial Coin Offering (ICO)
+Instances
+Keccak-256
+Ledger
+Master Node
+Merkle Tree
+MetaMask
+Mining
+OPcodes
+Open Source
+Peer-to-peer (P2P)
+Permissioned Blockchains
+Private Key
+Proof of Authority
+Proof of Stake
+Proof of Work
+Pseudonymity
+SHA 256
+Sharding
+Smart Contract
+Solidity
+TestRPC
+The 3 Layer Model
+Token
+Transaction Block
+Truffle
+Turing Complete
+Unspent Transaction Output (UTXO)
+Wallet
+Web3.js
+Advertising-based pricing model
+Amazon Elastic Compute Cloud (EC2)
+Amazon Simple Storage Service (S3)
+Apache Hadoop
+AWS
+Content delivery network (CDN)
+Cloud
+Cloud portability
+Cloud provider
+Cloudsourcing
+Cloud storage
+Cloudware
+Cluster
+Consumer cloud
+Consumption-based pricing model
+Content Management Interoperability Services (CMIS)
+Customer self-service
+Disruptive technology
+Docker
+Elastic computing
+External cloud
+Google App Engine
+Google Apps
+Hardware as a Service (HaaS)
+Hosted application
+Hybrid cloud
+Infrastructure as a Service (IaaS)
+Internal cloud
+Microsoft Azure
+Microsoft Office 365
+Middleware
+Multitenancy
+On-demand service
+OpenStack
+PaaS
+Pay as you go
+Private cloud
+Public cloud
+Software as a Service (SaaS)
+Salesforce
+Service migration
+Service provider
+Service level agreement (SLA)
+Social networking service (SNS)
+Software plus services
+Subscription-based pricing model
+Utility computing
+Vendor lock-in
+Vertical cloud
+Virtual private data center
+Virtual private cloud (VPC)
+CDN
+Cloud broker
+Cloud operating system
+Cloud Oriented Architecture
+Cloudstorming
+HaaS
+IaaS
+IBM Smart Business
+Mashup
+SaaS
+Salesforce.com
+SLA
+VPC
+Windows Live Services
+Automatic Identification and Data Capture (AIDC)
+Avro
+Behavioral Analytics
+Business Intelligence
+Big Data Scientist
+Biometrics
+Cascading
+Call Detail Record (CDR) Analysis
+Cassandra
+Cell Phone Data
+Cloud Computing
+Chukwa
+Columnar Database / Column-Oriented Database
+Comparative Analytic-oriented Database
+Complex Event Processing (CEP)
+Data Analyst
+Data Aggregation
+Dashboard
+Data Scientist
+Data Architecture and Design
+Database administrator (DBA)
+Database Management System (DBMS)
+Data Cleansing
+Document Management
+Data Visualization
+Drill
+Extract, Transform, and Load (ETL)
+Flume
+Grid Computing
+Gamification
+Hadoop User Experience (HUE)
+High-Performance Analytical Application (HANA)
+HAMA
+Hadoop Distributed File System (HDFS)
+HBase
+Hive
+Impala
+Key Value Stores / Key Value Databases
+Load balancing
+Location Analytics
+Log File
+Metadata
+MongoDB
+Multi-Dimensional Database (MDB)
+Multi-Value Database
+Machine-Generated Data
+MapReduce
+Mahout
+Network Analysis
+NewSQL
+NoSQL
+Object Databases
+Object-based Image Analysis
+Online Analytical  Processing (OLAP)
+Online transactional processing (OLTP)
+Open Data Center Alliance (ODCA)
+Operational Data Store (ODS)
+Oozie
+Parallel Data Analysis
+Parallel Method Invocation (PMI)
+Parallel Processing
+Parallel Query
+Pentaho
+Petabyte
+Query
+Query Analysis
+R
+Re-identification
+Real-time Data
+Reference Data
+Recommendation Engine
+Risk Analysis
+Routing Analysis
+Semi-Structured Data
+Server
+Spatial Analysis
+Structured Query Language (SQL)
+Sqoop
+Storm
+Text Analytics
+Thrift
+Unstructured Data
+Value
+Volume
+WebHDFS Apache Hadoop
+Weather Data
+XML Databases
+Yottabyte
+ZooKeeper
+Zettabyte
+Bottom Line
+6LoWPAN
+Advanced Encryption Standard (AES)
+Bluetooth Low Energy (BLE)
+Embedded Software
+Firmware Over-the-Air (FOTA)
+Gateway
+General Packet Radio Service (GPRS)
+Industrial IoT (IIoT)
+Industrial, Scientific, and Medical (ISM) Band
+Link Budget
+Low-Power Wide Area (LPWA)
+Low-Power Wireless Sensor Network
+LoRa Protocol (LoRaWAN)
+LTE-M
+Machine to Machine (M2M)
+Media Access Control (MAC)
+Mote
+NB-IoT
+Near-Field Communication (NFC)
+Quality of Service (QoS)
+Radiofrequency (RF)
+Radio Frequency Identification (RFID)
+RF Geolocation
+Repeater
+Smart Meter
+Software-Defined Network (SDN)
+Structure Attenuation
+Transmission Control Protocol/Internet Protocol (TCP/IP)
+Ultra-Wide Band (UWB)
+ZigBee
+Z-Wave

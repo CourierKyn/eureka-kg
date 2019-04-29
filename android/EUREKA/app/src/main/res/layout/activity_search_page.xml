@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <include layout="@layout/title"></include>
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@layout/title"
+        android:layout_marginTop="45dp"
+        android:layout_gravity="left"
+        android:layout_weight="1"
+        android:hint="Enter what you want to search"
+        android:maxLines="2" />
+
+    <Button
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="40dp"
+        android:layout_toRightOf="@id/edit_text"
+
+        android:text="search"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/advanced"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_text"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="-50dp"
+        android:layout_toRightOf="@id/search"
+        android:text="advanced"
+        android:textSize="11dp"
+        android:textAllCaps="false" />
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_text"
+        >
+
+    </ListView>
+
+
+
+</RelativeLayout>

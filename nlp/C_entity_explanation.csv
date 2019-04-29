@@ -1,0 +1,100 @@
+entity,explanation
+Advertising-based pricing model,"A pricing model whereby services are offered to customers at low or no cost, with the service provider being compensated by advertisers whose ads are delivered to the consumer along with the service."
+Amazon Elastic Compute Cloud (EC2),"Part of Amazon Web Services (AWS), EC2 provides scalable computing capacity in the cloud, which developers can use to deploy scalable applications."
+Amazon Simple Storage Service (S3),"Part of AWS, S3 allows for the storage and retrieval of data. It can also be used to host static websites."
+Apache Hadoop,An open-source software framework for distributed storage and processing of large sets of data.
+AWS,"The organizational unit of Amazon that provides a variety of cloud services. AWS operates from 11 physical locations across North and South America, Europe, Asia, and Australia."
+Content delivery network (CDN),"A distributed system consisting of servers in discrete physical locations, configured in a way that clients can access the server closest to them on the network, thereby improving speeds."
+Cloud,"A metaphor for a global network, first used in reference to the telephone network and now commonly used to represent the internet."
+Cloud portability,The ability to move applications and data from one cloud provider to another. See also Vendor lock-in.
+Cloud provider,"A company that provides cloud-based platform, infrastructure, application, or storage services to other organizations and/or individuals, usually for a fee."
+Cloudsourcing,"Replacing traditional IT operations with lower-cost, outsourced cloud services."
+Cloud storage,A service that allows customers to save data by transferring it over the internet or another network to an offsite storage system maintained by a third party.
+Cloudware,"Software that enables creating, deploying, running, or managing applications in the cloud."
+Cluster,"A group of linked computers that work together as if they were a single computer, for high availability and/or load balancing."
+Consumer cloud,"Cloud computing offerings targeted toward individuals for personal use, such as Dropbox or iCloud."
+Consumption-based pricing model,"A pricing model whereby the service provider charges its customers based on the amount of the service the customer consumes, rather than a time-based fee. For example, a cloud storage provider might charge per gigabyte of information stored. See also Subscription-based pricing model."
+Content Management Interoperability Services (CMIS),An open standard for controlling content and document management systems and repositories using web protocols.
+Customer self-service,"A feature that allows customers to provision, manage, and terminate services themselves, without involving the service provider, via a web interface or programmatic calls to service APIs."
+Disruptive technology,"A business term that describes innovations that improve products or services in unexpected ways. These innovations change the methods used to accomplish a task, and re-shape the market for that task. Cloud computing is considered a disruptive technology because of its elasticity, flexible pricing models, and maintenance cost compared to traditional IT service provisioning."
+Docker,Open-source software that automates the deployment of applications inside virtualized software containers.
+Elastic computing,"The ability to dynamically provision and deprovision computing and storage resources to stretch to the demands of peak usage, without the need to worry about capacity planning and engineering around uneven usage patterns."
+External cloud,Public or private cloud services that are provided by a third party outside the organization.
+Google App Engine,"A service that enables developers to create and run web applications on Google's infrastructure and share their applications via a pay-as-you-go, consumption-based plan with no setup costs or recurring fees."
+Google Apps,"Google's Software as a Service (SaaS) product includes an office productivity suite, email, calendar, and file storage and sharing. Google Apps for Business includes an enterprise administration interface and archiving tools, and support for legal holds document discovery compliance. Google Apps for Education includes additional collaboration and reporting tools for classroom environments."
+Hardware as a Service (HaaS),Also see IaaS.
+Hosted application,An internet-based or web-based application software program that runs on a remote server and can be accessed via an internet-connected PC or thin client. See also SaaS.
+Hybrid cloud,"The combination of a public cloud provider (such as AWS) with a private cloud platform. The public and private cloud infrastructures operate independently of each other, and integrate using software and processes that allow for the portability of data and applications."
+Infrastructure as a Service (IaaS),"Cloud infrastructure services in which a virtualized environment is delivered as a service by the cloud provider. This infrastructure can include servers, network equipment, and software, including a complete desktop environment such as Windows or Linux."
+Internal cloud,A private cloud instance provided and supported by an IT department for internal use.
+Microsoft Azure,"Microsoft's cloud platform that provides a myriad of Platform as a Service (PaaS) and IaaS offerings, including Microsoft-specific and third-party standards, for developers to deploy cloud applications and services."
+Microsoft Office 365,"Microsoft's software plus services model that offers Microsoft Office on a subscription-based pricing model, with cloud storage abilities. For business and enterprise use, Office 365 includes email and SNS, with cloud-hosted instances of Exchange Server and Skype for Business, among others."
+Middleware,"Software that sits between applications and operating systems, consisting of a set of services that enable interoperability in support of distributed architectures by passing data between applications. So, for example, the data in one database can be accessed through another database."
+Multitenancy,"The existence of multiple clients sharing resources (services or applications) on distinct physical hardware. Due to the on-demand nature of cloud, most services are multi tenant."
+On-demand service,"A model by which a customer can purchase cloud services as needed; for instance, if customers need to utilize additional servers for the duration of a project, they can do so and then drop back to the previous level after the project is completed."
+OpenStack,"A free and open-source cloud computing software platform used to control pools of processing, storage, and networking resources in a datacenter."
+PaaS,"Cloud platform services, whereby the computing platform (operating system and associated services) is delivered as a service over the internet by the provider."
+Pay as you go,"A cost model for cloud services that encompasses both subscription-based and consumption-based models, in contrast to the traditional IT cost model that requires up-front capital expenditures for hardware and software."
+Private cloud,Services offered over the internet or over a private internal network to select users. These services are not available to the general public.
+Public cloud,Services offered over the public internet. These services are available to anyone who wants to purchase the service.
+Software as a Service (SaaS),"Cloud application services, whereby applications are delivered over the internet by the provider so the applications don't have to be purchased, installed, and run on the customer's computers. SaaS providers were previously referred to as application service providers."
+Salesforce,An online SaaS company that is best known for delivering customer relationship management (CRM) software to companies over the internet.
+Service migration,The act of moving from one cloud service or vendor to another.
+Service provider,The company or organization that provides a public or private cloud service.
+Service level agreement (SLA),"A contractual agreement by which a service provider defines the level of service, responsibilities, priorities, and guarantees regarding availability, performance, and other aspects of the service."
+Social networking service (SNS),"Used in enterprises for collaboration, file sharing, and knowledge transfer; among the most common platforms are Microsoft's Yammer, and Salesforce's Chatter. Often called enterprise social software to differentiate between ""traditional"" SNS platforms such as Facebook or LinkedIn."
+Software plus services,"The combination of cloud-hosted services with locally running software. This method allows for using the local system for processing power while relying on cloud operations for software license verification, portable identities, syncing between devices, and file storage."
+Subscription-based pricing model,"A pricing model that lets customers pay a fee to use the service for a particular time period, often used for SaaS services. See also Consumption-based pricing model."
+Utility computing,"A provisioning model in which services are available as needed, and users are charged for specific usage, in a manner similar to municipal utilities such as electricity or water."
+Vendor lock-in,"Dependency upon a particular cloud vendor and low ability to migrate between vendors due to an absence of support for standardized protocols, APIs, data structures (schema), and/or service models."
+Vertical cloud,"A cloud computing environment optimized for use and built around the compliance needs of specialized industries, such as healthcare, financial services, and government operations."
+Virtual private data center,Resources grouped according to specific business objectives.
+Virtual private cloud (VPC),"A private cloud that exists within a shared or public cloud, e.g., the Amazon VPC that allows Amazon EC2 to connect to legacy infrastructure on an IPsec VPN."
+Advertising-based pricing model,"A pricing model whereby services are offered to customers at low or no cost, with the service provider being compensated by advertisers whose ads are delivered to the consumer along with the service."
+Amazon EC2,"Amazon's Elastic Compute Cloud Web service, which provides resizable computing capacity in the cloud so developers can enjoy great scalability for building applications."
+Amazon S3,Amazon Simple Storage Services — Amazon's cloud storage service.
+CDN,"Content delivery network — A system consisting of multiple computers that contain copies of data, which are located in different places on the network so clients can access the copy closest to them."
+Cloud,"A metaphor for a global network, first used in reference to the telephone network and now commonly used to represent the Internet."
+Cloud broker,"An entity that creates and maintains relationships with multiple cloud service providers. It acts as a liaison between cloud services customers and cloud service providers, selecting the best provider for each customer and monitoring the services."
+Cloud operating system,"A computer operating system that is specially designed to run in a provider's datacenter and be delivered to the user over the Internet or another network. Windows Azure is an example of a cloud operating system or ""cloud layer"" that runs on Windows Server 2008. The term is also sometimes used to refer to cloud-based client operating systems such as Google's Chrome OS."
+Cloud Oriented Architecture,A term coined by Jeff Barr at Amazon Web Services to describe an architecture where applications act as services in the cloud and serve other applications in the cloud environment.
+Cloud portability,The ability to move applications and data from one cloud provider to another. See also Vendor lock-in.
+Cloud provider,"A company that provides cloud-based platform, infrastructure, application, or storage services to other organizations and/or individuals, usually for a fee."
+Cloud storage,A service that allows customers to save data by transferring it over the Internet or another network to an offsite storage system maintained by a third party.
+Cloudsourcing,Replacing traditional IT services with cloud services.
+Cloudstorming,Connecting multiple cloud computing environments.
+Cloudware,"Software that enables creating, deploying, running, or managing applications in the cloud."
+Cluster,"A group of linked computers that work together as if they were a single computer, for high availability and/or load balancing."
+Consumption-based pricing model,"A pricing model whereby the service provider charges its customers based on the amount of the service the customer consumes, rather than a time-based fee. For example, a cloud storage provider might charge per gigabyte of information stored. See also Subscription-based pricing model."
+Customer self-service,"A feature that allows customers to provision, manage, and terminate services themselves, without involving the service provider, via a Web interface or programmatic calls to service APIs."
+Disruptive technology,"A term used in the business world to describe innovations that improve products or services in unexpected ways and change both the way things are done and the market. Cloud computing is often referred to as a disruptive technology because it has the potential to completely change the way IT services are procured, deployed, and maintained."
+Elastic computing,"The ability to dynamically provision and de-provision processing, memory, and storage resources to meet demands of peak usage without worrying about capacity planning and engineering for peak usage."
+External cloud,Public or private cloud services that are provided by a third party outside the organization.
+Google App Engine,"A service that enables developers to create and run Web applications on Google's infrastructure and share their applications via a pay-as-you-go, consumption-based plan with no setup costs or recurring fees."
+Google Apps,"Google's SaaS offering that includes an office productivity suite, email, and document sharing, as well as Gmail, Google Talk for instant messaging, Google Calendar and Google Docs, spreadsheets, and presentations."
+HaaS,Hardware as a service; see IaaS.
+Hosted application,An Internet-based or Web-based application software program that runs on a remote server and can be accessed via an Internet-connected PC or thin client. See also SaaS.
+Hybrid cloud,A networking environment that includes multiple integrated internal and/or external providers.
+IaaS,"Infrastructure as a service — Cloud infrastructure services, whereby a virtualized environment is delivered as a service over the Internet by the provider. The infrastructure can include servers, network equipment, and software."
+IBM Smart Business,"IBM's cloud solutions, which include IBM Smart Business Test Cloud, IBM Smart Analytics Cloud, IBM Smart Business Storage Cloud, IBM Information Archive, IBM Lotus Live, and IBM LotusLive iNotes."
+Internal cloud,A type of private cloud whose services are provided by an IT department to those in its own organization.
+Mashup,A Web-based application that combines data and/or functionality from multiple sources.
+Microsoft Azure,"Microsoft cloud services that provide the platform as a service (see PaaS), allowing developers to create cloud applications and services."
+Middleware,"Software that sits between applications and operating systems, consisting of a set of services that enable interoperability in support of distributed architectures by passing data between applications. So, for example, the data in one database can be accessed through another database."
+On-demand service,"A model by which a customer can purchase cloud services as needed; for instance, if customers need to utilize additional servers for the duration of a project, they can do so and then drop back to the previous level after the project is completed."
+PaaS,"Platform as a service — Cloud platform services, whereby the computing platform (operating system and associated services) is delivered as a service over the Internet by the provider."
+Pay as you go,"A cost model for cloud services that encompasses both subscription-based and consumption-based models, in contrast to traditional IT cost model that requires up-front capital expenditures for hardware and software."
+Private cloud,"Services offered over the Internet or over a private internal network to only select users, not available to the general public."
+Public cloud,Services offered over the public Internet and available to anyone who wants to purchase the service.
+SaaS,"Software as a service — Cloud application services, whereby applications are delivered over the Internet by the provider, so that the applications don't have to be purchased, installed, and run on the customer's computers. SaaS providers were previously referred to as ASP (application service providers)."
+Salesforce.com,An online SaaS company that is best known for delivering customer relationship management (CRM) software to companies over the Internet.
+Service migration,The act of moving from one cloud service or vendor to another.
+Service provider,The company or organization that provides a public or private cloud service.
+SLA,"Service level agreement — A contractual agreement by which a service provider defines the level of service, responsibilities, priorities, and guarantees regarding availability, performance, and other aspects of the service."
+Subscription-based pricing model,"A pricing model that lets customers pay a fee to use the service for a particular time period, often used for SaaS services. See also Consumption-based pricing model."
+Utility computing,Online computing or storage sold as a metered commercial service in a way similar to a public utility
+Vendor lock-in,"Dependency on the particular cloud vendor and difficulty moving from one cloud vendor to another due to lack of standardized protocols, APIs, data structures (schema), and service models."
+Vertical cloud,"A cloud computing environment that is optimized for use in a particular industry, such as health care or financial services."
+Virtual private data center,Resources grouped according to specific business objectives.
+VPC,"Virtual private cloud — A private cloud that exists within a shared or public cloud, e.g., the Amazon VPC that allows Amazon EC2 to connect to legacy infrastructure on an IPsec VPN."
+Windows Live Services,"Microsoft's cloud-based consumer applications, which include Windows Live Mail, Windows Live Photo Gallery, Windows Live Calendar, Windows Live Events, Windows Live Skydrive, Windows Live Spaces, Windows Live Messenger, Windows Live Writer, and Windows Live for Mobile."
