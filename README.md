@@ -26,13 +26,15 @@
 
 ## 数据
 
-语料示例（代码见 `crawler/universalcrawler`）：
+语料示例（代码见 [`crawler/universalcrawler`](crawler/universalcrawler)）：
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6tjsjwf16j30o104c7an.jpg)
 
-用于远程监督的 Wikidata 实体间关系（`crawler/wikidatacrawler`）：
+用于远程监督的 Wikidata 实体间关系（[`crawler/wikidatacrawler`](crawler/wikidatacrawler)）：
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6tjt8meo9j30o1093n3v.jpg)
+
+neo4j 数据库内容（[`database`](database)）：
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6thr7iktuj31dg0nh46s.jpg)
 
