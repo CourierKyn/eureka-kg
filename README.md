@@ -14,7 +14,7 @@
     ├── server # 后端
     └── ...
 
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6tjxjzeojj30o10b7dig.jpg)
+![架构](https://tva1.sinaimg.cn/large/006y8mN6ly1g6tjxjzeojj30o10b7dig.jpg)
 
 ## Web
 
